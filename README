@@ -1,0 +1,71 @@
+
+|\     /|(  ____ \(  ___ \      (  ____ \|\     /|\__   __/(  ____ \( \      (  __  \
+| )   ( || (    \/| (   ) )     | (    \/| )   ( |   ) (   | (    \/| (      | (  \  )
+| | _ | || (__    | (__/ /_____ | (_____ | (___) |   | |   | (__    | |      | |   ) |
+| |( )| ||  __)   |  __ ((_____)(_____  )|  ___  |   | |   |  __)   | |      | |   | |
+| || || || (      | (  \ \            ) || (   ) |   | |   | (      | |      | |   ) |
+| () () || (____/\| )___) )     /\____) || )   ( |___) (___| (____/\| (____/\| (__/  )
+(_______)(_______/|/ \___/      \_______)|/     \|\_______/(_______/(_______/(______/
+
+
+Your first line of WEB defense against Internet bots, hacks and probes.
+
+A great stand alone filter, or compliment to the wonderful active 
+firewall: WebShield, Fail2Ban, that will make F2B even more efficient.
+
+by Dark Phiber, 2019-2022 - dolson803@gmail.com
+
+# WHAT?
+# =====
+
+Web-Shield is a set of scripts that implements a traffic filter 
+of your web server ports.
+
+You may ask yourself, why and how should I bother filtering traffic
+to my web sites?  I want as much traffic as possible, right?
+
+Well, no, not really.  There are a lot of traffic that just wastes
+bandwidth and exploits your system and content, and actively tries
+to find vulnerabilities and ways into your system.  You do NOT 
+want that.
+
+Our blacklist is intended to be a "wide sweep" IPv4-based blacklist
+of major groups of Internet locations that are notorious for housing
+the lion's share of nefarious HOSTING OPERATIONS that 99.9% of the time
+have NO BUSINESS WHATSOEVER crawling your web site.
+
+In addition to this, there are some optional blacklists that are a 
+little more aggressive in filtering common spiders and userspace that
+is filled with fraud and activity that is unlikely to be of benefit.
+
+This system can by used by itself or (ideally) in association with
+more precise anti-hacking systems like Fail2Ban.  With this large
+net in place, it reduces the resources Fail2Ban needs to only dealing
+with mostly local attacks from IP space you might not want to ban
+wholesale.
+
+# WHY?
+# ====
+
+Every time a site is compromised, there's a chance lists of usernames
+and passwords are leaked.  Hackers will take these lists and try to
+find other systems that use these same credentials. If they can gain
+access they can completely ruin your day (or year).  They will often
+try to login to e-mail clients, ftp accounts, ssh services, etc.  
+These system probes are now becoming even more sophisticated, and able
+to recognize Fail2Ban trigger conditions and work around them.  Our
+system stops approximately 90% of the attacks on most servers.
+
+# HOW?
+# ====
+
+Web-shield is a very small set of IPTABLES rules that is designed
+to block access primarily to web ports.
+
+## See the file INSTALL for installation instructions
+
+## See the file VERSION for version and developer notes
+
+## See the file STATISTICS for real world samples of the scripts' effectiveness
+
+## See the files CHANGELOG and VERSION for information on changes and program versions and developer notes
