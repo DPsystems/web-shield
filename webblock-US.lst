@@ -1,0 +1,545 @@
+#
+# Source: webblock-US.lst
+#
+# Known IP space of cloud/hosting providers inside the US
+#
+# IPs to avoid blocking:
+# 172.65.32.248 - letsencrypt server
+#
+######
+# us - cloudradium
+172.247.0.0/16
+
+# us - fl hivelocity.net
+69.46.0.0/19
+
+# us criteo search weasel
+74.119.116.0/22
+
+# ok - kvchosting
+216.107.128.0/20
+
+# us psychz networks
+172.106.0.0/15
+# overseas psychz
+104.149.128.0/18
+
+# us form spammer
+168.90.97.0/24
+
+# peg tech  / locally sourced web attacks
+198.2.192.0/18
+
+# us host4yourself h4y.us
+67.21.32.0/23
+
+# us - tuzlo hosting & others
+198.54.112.0/20
+198.54.128.0/21
+
+# us - heg - us
+148.72.160.0/20
+
+# us - vegasnap
+76.164.192.0/20
+
+# us - webline-services.com
+191.102.132.0/23
+
+# us - eonix - subleased to serverhub and others
+50.2.0.0/15
+173.213.64.0/18
+
+# us - ahrefs bot / private marketing seo crawler - aggressive bot that ignores rel=nofollow
+51.222.253.0/24
+
+# us - hosting services inc
+173.244.192.0/19
+
+# us - colocationamerica
+185.196.188.0/22
+184.174.0.0/17
+
+# us - freedomtech solutions - form spamming propaganda
+154.21.21.0/24
+
+# us - form spamming
+170.83.176.0/22
+
+# us - interconnects.us
+158.222.0.0/20
+
+# us oh - ee.net
+209.190.0.0/17
+
+# us - colostore.com
+162.255.44.0/22
+
+# us - highwinds - ipvanish
+205.185.192.0/19
+
+# us - tx - totalserversolutions
+104.200.128.0/19
+172.83.40.0/21
+162.253.68.0/22
+
+# us - ny newyorkcityservers.com
+162.253.64.0/22
+
+# us - fl - atlantic.net hosting
+208.117.80.0/21
+
+# us - quickserver.co - invalid abuse
+23.148.143.0/24
+23.148.144.0/23
+
+# us - censys.io - scanning servic
+162.142.125.0/24
+167.248.133.0/24
+74.120.14.0/24
+
+# us - global - ceranetworks.com
+23.224.0.0/15
+
+# us - webair.net
+67.55.64.0/18
+
+# us packethub / nord vpn - 116-119
+45.131.192.0/22
+192.145.116.0/22
+185.202.220.0/23
+
+# us nexeon tech nord vpn
+104.237.192.0/19
+
+# us - tzulo.com
+198.54.129.0/24
+
+# us - il globaltelehost.com
+162.251.60.0/22
+
+# us - pinogy.com
+50.28.64.0/19
+
+# us - privax vpn
+5.62.56.0/24
+
+# us - php8 - form spammer
+138.94.218.0/23
+
+# us - vpn - prefixbroker
+45.132.115.0/24
+
+# us nj - serverstack
+69.55.48.0/20
+
+# us fl retards h4y host4yourself
+192.154.231.0/24
+
+# us ut - endurance.com / websitewelcome.com / hostgator shit
+142.4.0.0/19
+50.116.64.0/18
+192.185.0.0/16
+
+# us - ca - multacom
+96.43.80.0/20
+
+# us - nj steadfast.net - bitschoots.com cheap ass managed web hosting
+208.117.0.0/18
+
+# us - boston - braveway.com dedicated servers
+158.115.224.0/22
+
+# us - bandcon - securedconnectivity
+209.107.192.0/19
+
+# us wehostwebsites.com
+192.82.248.0/21
+23.239.192.0/19
+
+# us tx totalserversolutions.com
+208.84.152.0/22
+
+# us - hudsonvalleyhost
+192.210.177.0/24
+
+# us pa - dedipath, tor
+171.22.121.0/24
+185.240.244.0/23
+
+# us tx - serverhub
+23.90.28.0/22
+
+# us - netprotect - ipvanish vpn
+192.200.156.0/22
+216.131.64.0/18
+
+# us - mudhook marketing - ipvanish
+198.181.163.0/24
+
+# us - strongtechlology
+185.244.9.0/24
+
+# us - interserver.net
+66.23.224.0/20
+174.138.176.0/20
+69.10.32.0/19
+
+# us - clouvider Nord vpn
+92.119.17.0/24
+
+# us tzulo.com - vpn
+68.235.32.0/19
+
+# us/ca - b2netsolutions - servermania
+23.236.128.0/17
+107.152.240.0/21
+198.20.160.0/19
+104.144.0.0/16
+
+
+# us/ro - m247 proxy
+185.247.70.0/24
+82.102.30.0/24
+89.38.224.0/22
+
+# us - halo colocation
+206.41.168.0/22
+
+# us - ioflood.com
+107.167.64.0/19
+
+# us - datawagon
+172.81.128.0/21
+
+# us - vpnconsumer.com - hacking source
+45.41.180.0/24
+
+# us - uk - interconnects
+104.160.8.0/24
+107.150.89.0/24
+
+# us - co - wehostwebsites.com
+173.248.128.0/18
+
+# us - ga inap / internap 64.94.0.0/15
+64.94.208.0/21
+
+# us - blazing SEO
+23.236.164.0/22
+
+# us - upcloud chicago
+209.50.56.0/22
+209.50.48.0/21
+
+# us - webnx
+64.140.160.0/20
+
+# us ca - sharktech.net
+170.178.160.0/19
+
+# us - egi hosting
+172.120.0.0/15
+
+# us - blazing SEO spammer
+66.84.92.0/24
+
+# us - carolinadigitalphone.com / form spamming
+66.248.128.0/19
+
+# us - servermania
+45.72.54.0/23
+198.154.89.0/24
+192.186.150.0/24
+
+# us - gigenet / coloquest IL
+70.32.0.0/20
+
+# us - securedservers.com / phoenixnap
+184.95.32.0/19
+
+# us - ut - hosting services
+199.195.192.0/21
+
+# us - sioru/it7 hosting
+104.224.184.0/22
+
+# us - sc hostigation.com
+69.85.84.0/23
+
+# us - highspeedweb.net
+69.51.16.0/24
+
+# us - server mania
+209.127.184.0/21
+138.128.83.0/24
+
+# us - avast cloud
+5.62.57.0/24
+
+# us - pacific rack quadranet
+107.161.80.0/20
+96.44.148.0/24
+96.44.142.0/23
+96.44.144.0/22
+155.94.128.0/18
+
+# us wa / wowrack.com
+216.244.64.0/19
+
+# us / zenlayer managed hosting
+69.28.48.0/24
+
+# us - ga - total server solutions - vpn/scam classified ads
+173.0.64.0/27
+
+# us - leasewebUSA
+207.244.64.0/18
+23.83.0.0/16
+108.62.8.0/21
+23.80.0.0/15
+23.82.0.0/16
+23.81.224.0/19
+23.104.0.0/16
+23.105.128.0/18
+23.105.0.0/17
+23.106.160.0/19
+23.106.192.0/19
+23.106.224.0/21
+45.86.15.0/24
+172.241.112.0/21
+172.241.128.0/22
+172.241.248.0/21
+193.27.21.0/24
+209.58.128.0/20
+209.58.144.0/20
+23.19.128.0/17
+23.19.64.0/18
+
+# us - pointtoserver - form spam - multiple problems from this space
+172.111.128.0/17
+
+# us - datacamp
+185.152.67.0/24
+37.19.196.0/23
+212.102.33.0/24
+195.181.168.0/24
+156.146.58.0/23
+
+# us - wa - somee virtual servers
+208.64.33.0/24
+
+# us - hk - codeccloud
+38.143.18.0/23
+
+# us - co - zcolo / possibly connectivity?
+#74.124.0.0/19
+
+# us - nj - total server solutions
+184.170.253.0/24
+
+# us - sendgrid.net
+198.21.0.0/21
+
+# us - oracle public cloud
+142.0.160.0/20
+132.145.0.0/16
+140.238.0.0/16
+129.144.0.0/12
+130.61.0.0/16
+168.138.0.0/16
+
+# us - pacificrack.com
+204.44.64.0/19
+
+# us - liquidweb.com
+207.246.240.0/20
+173.199.128.0/18
+
+# us - webhostbox.net
+162.251.80.0/24
+
+# us - oneandone.net ionos vps, hosting
+66.175.232.0/21
+74.208.0.0/16
+
+# us - total server solutions, atlanta, ga
+66.115.128.0/18
+
+# us - fortressitx.com
+65.98.110.0/23
+65.98.109.0/24
+65.98.120.0/24 
+65.98.112.0/21
+
+# us - linode
+172.104.0.0/15
+173.255.192.0/18
+72.14.176.0/20
+45.33.0.0/17
+104.237.128.0/19
+
+# us - ca - klayer cheap hosting
+23.249.24.0/21
+
+# us - new jersey virups.com
+198.167.136.0/21
+
+# us - chunkhost - cheap cloud servers
+66.172.27.0/24
+
+# us - stealth communications
+207.251.64.0/18
+
+# us - secure internet llc - system probes - vpn https://scamalytics.com/ip/isp/secure-internet-llc
+45.74.0.0/18
+104.37.0.0/21
+
+# us - tor nodes
+209.95.32.0/19
+198.98.48.0/20
+64.113.32.0/20
+
+# us - colocrossing
+104.168.0.0/17
+107.172.0.0/14
+172.245.0.0/16
+198.12.64.0/18
+192.3.0.0/16
+192.210.128.0/17
+198.46.128.0/17
+206.217.128.0/20
+
+# us - greenserver.io - vps
+96.9.208.0/23
+
+# us - worldwide - vpn - ipvanish.com
+81.171.72.0/21
+64.145.67.0/24
+64.145.94.0/24
+173.245.203.0/24
+216.151.176.0/20
+129.232.128.0/17
+209.107.216.0/24
+
+# us - dreamhost
+69.163.128.0/17
+67.205.56.0/21
+173.236.128.0/17
+208.97.128.0/18
+
+# us - it7 vps hosting
+144.34.128.0/17
+
+# us - nc - threat research group
+208.97.31.128/25
+
+# us - colo up
+162.223.88.0/21
+
+# us,europe,elsewhere choopa / vultr.com - cloud / VPS
+140.82.0.0/18
+45.32.0.0/16
+45.63.0.0/17
+45.76.0.0/15
+66.42.118.0/23
+66.135.0.0/19
+104.156.250.0/23
+104.207.158.0/23
+144.202.62.0/23
+149.28.206.0/23
+207.148.64.0/20
+207.246.64.0/18
+144.202.6.0/23
+139.180.184.0/21
+149.28.8.0/21
+149.28.16.0/20
+149.28.32.0/19
+149.28.64.0/18
+149.28.128.0/17
+173.199.122.0/23
+173.199.124.0/24
+208.167.224.0/19
+
+# us / seattle serverhub
+173.44.152.0/22
+
+# us / frantech - lots of hacking
+45.61.128.0/18
+198.251.80.0/20
+205.185.112.0/20
+199.195.248.0/21
+
+# us / traffic transit solution
+89.191.228.0/24
+89.191.229.0/24
+
+# us / securityservers
+85.208.210.0/24
+85.208.211.0/24
+
+# us other areas / digital ocean
+134.209.0.0/16
+209.97.128.0/18
+159.223.0.0/16
+138.68.0.0/16
+138.197.0.0/16
+128.199.0.0/16
+147.182.128.0/17
+167.172.0.0/16
+68.183.0.0/16
+37.139.8.0/21
+46.101.0.0/16
+64.225.0.0/17
+64.227.0.0/17
+104.236.0.0/16
+104.248.0.0/16
+139.59.112.0/20
+142.93.0.0/16
+143.110.128.0/17
+143.198.0.0/16
+157.230.0.0/16
+157.245.0.0/16
+159.65.0.0/16
+161.35.0.0/16
+162.243.0.0/16
+165.227.0.0/16
+178.128.80.0/20
+188.166.0.0/17
+192.241.128.0/17
+198.199.64.0/18
+207.154.192.0/18
+165.22.0.0/16
+
+# digital ocean tor
+#185.220.102.0/24  # already in non-US
+
+# cn / global frag servers
+23.228.96.0/26
+
+# ru/ukraine belieze
+176.121.14.0/24
+5.248.0.0/16
+
+# us/ro - m24 hosting
+193.37.253.0/24
+
+# us - global frag servers layerhost
+104.148.0.0/17
+
+# us - form spammer
+104.245.144.0/24
+
+# us - seattle - hostwinds
+23.238.0.0/17
+142.11.192.0/18
+23.254.128.0/17
+
+# us - endurance marketing/hosting bluehost, hostgator, constantcontact
+209.59.192.0/19
+
+# us - unified layer
+70.40.192.0/19
+162.240.0.0/15
+
+

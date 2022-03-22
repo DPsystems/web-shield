@@ -1,0 +1,57 @@
+#
+# other webblock - smaller IP blocks
+#
+
+# cn petalbot - very aggressive chinese spiders that do not follow robots.txt - See: https://www.hypernode.com/blog/performance/huawei-aspiegelbot-is-increasingly-impacting-european-online-stores
+114.119.128.0/18
+
+# tr - citynet
+185.65.205.0/24
+
+# microsoft
+137.117.0.0/16
+
+# amazon aws
+35.176.0.0/13
+35.160.0.0/12
+35.152.0.0/13
+
+# russia - this is user space
+85.140.0.0/15
+92.101.192.0/18
+
+# microsoft
+52.146.0.0/15
+52.145.0.0/16
+52.152.0.0/13
+52.160.0.0/11
+52.148.0.0/14
+20.34.0.0/15
+20.33.0.0/16
+20.128.0.0/16
+20.36.0.0/14
+20.48.0.0/12
+20.40.0.0/13
+
+# us - godaddy
+148.72.0.0/16
+92.204.128.0/20
+166.62.0.0/17
+198.12.128.0/17
+107.180.0.0/17
+45.40.128.0/18
+
+# us - google cloud
+35.192.0.0/12
+
+# large areas of china
+125.64.0.0/13
+222.184.0.0/13
+119.80.160.0/19
+
+# large areas of russsia
+178.66.0.0/16
+
+# large areas of south africa
+105.208.0.0/12
+

@@ -1,0 +1,5 @@
+# files to ignore
+webshield-set-iptables.sh
+*.tgz
+*.zip
+

@@ -1,0 +1,1047 @@
+#
+# Source: webblock-nonUS.lst
+#
+# Known IP space of cloud/hosting providers outside the US
+#
+#
+# IPs to avoid blocking:
+# 172.65.32.248 - letsencrypt server
+#
+######
+# gb - form spamming
+154.92.114.0/24
+
+# cm - cameroon africa camtel
+154.72.128.0/18
+
+# ru - hacking
+45.9.20.0/24
+
+# ie servebyte
+185.104.216.0/22
+
+# by belarus hacking
+194.158.192.0/19
+
+# se - esap - probably tor
+141.98.255.0/24
+
+# pa ru / flyservers
+194.165.16.0/22
+
+# novocom / proxy-store
+213.166.64.0/21
+
+# nl - argeweb
+145.131.0.0/20
+
+# cz active24 servers
+81.95.96.0/20
+
+# se - altushost
+31.3.152.0/22
+
+# gb heficed cloud servers
+195.78.54.0/23
+191.101.0.0/16
+181.215.0.0/16
+
+# nl ru - relcom
+212.193.28.0/22
+
+# pa web advisors - hacking
+185.190.24.0/24
+
+# nl - hostkey
+5.39.216.0/21
+
+# africa - cloudinnovation.org - "ip address management"
+45.192.0.0/16
+
+# nl - nforce - vpn
+85.203.44.0/24
+
+# ca,uk - globalhost
+169.197.140.0/22
+38.75.136.0/23
+109.237.100.0/22
+
+# uk - avast cloud
+#5.62.42.0/23 - covered in 5.62.0.0/18
+
+# pa - packethub vpn
+185.187.243.0/24
+185.203.218.0/23
+
+# lt - form spamming
+171.22.76.0/22
+
+# bg - corpolabs - form spam
+147.78.141.0/24
+
+# br - host1plus
+181.214.0.0/16
+
+# in - form spamming
+103.217.236.0/22
+
+# se - vpn
+192.36.109.0/24
+
+# ru - userspace in russia
+136.169.192.0/19
+95.53.0.0/17
+
+# de - pvdatanet.com
+80.239.128.0/19
+
+# worldwide - interconnects
+37.203.208.0/21
+
+# md - form spamming
+45.144.32.0/22
+
+# nl - liteserver
+185.31.172.0/22
+
+# fr - proxad 
+88.160.0.0/11
+
+# hk,cn - ucloud
+123.58.192.0/19
+106.75.0.0/16
+
+# id - hacking
+103.136.24.0/21
+
+# bd,cn - hacking
+103.106.240.0/20
+
+# nl - us total server solutions, etc
+192.40.56.0/22
+
+# se,dk portlane.com
+188.126.64.0/19
+
+# kr,nz,in - hostroyale
+45.252.188.0/22
+
+# fr - aquaray.net
+95.128.40.0/21
+
+# za - hacking
+102.220.115.0/24
+
+# id - form spamming
+36.92.131.0/24
+
+# ru ua - hacking
+86.111.230.0/23
+46.161.14.0/23
+146.0.84.0/22
+46.8.0.0/18
+46.8.64.0/19
+
+# ru - firstbyte - scammers
+185.217.198.0/23
+
+# nl - serverion - hacking
+212.192.244.0/22
+31.210.20.0/23
+
+# eu - fibergrid
+165.231.0.0/16
+
+# es - cubenode
+185.86.210.0/24
+
+# tn - hacking
+41.227.128.0/17
+
+# tr - hostingdumyum
+91.151.88.0/23
+
+# pt - hostroyale
+194.36.96.0/22
+
+# fr - dedicated cloud servers - scaleway online.net
+163.172.0.0/16
+62.210.0.0/16
+
+# ro - wp hacking
+185.232.67.0/24
+103.6.244.0/22
+
+# uk cloudvider - nord vpn
+2.56.188.0/22
+
+# lt - bacloud
+88.119.160.0/20
+
+# uk - hostdime
+212.18.224.0/20
+
+# ro - bulk mailing form spamming
+185.154.152.0/22
+
+# nl - cloudmanage
+185.220.204.0/22
+
+# ca - iweb.com
+108.163.128.0/18
+154.30.52.0/23
+
+# fi - creanova.org
+194.34.132.0/22
+
+# md - hacking
+176.123.0.0/21
+176.123.8.0/22
+
+# bd - wordpress hacking
+103.132.182.0/24
+220.247.131.0/24
+
+# uk - linode.com - cloud hosting
+139.162.0.0/16
+
+# pa - hacking
+31.7.56.0/21
+45.129.136.0/24
+
+# de - ionos oneandone.net
+#74.208.0.0/16 - in the us list
+82.165.0.0/16
+
+# lv - yourserver
+94.140.114.0/23
+
+# ro - tor exit nodes
+185.100.87.0/24
+# fi - tor nodes
+185.67.80.0/22
+
+# lt - rackray
+37.156.216.0/22
+185.82.126.0/23
+
+# md - trabia
+178.17.174.0/24
+
+# de - supersrv.de
+202.61.192.0/18
+
+# bz - digital energy tech
+191.101.208.0/20
+191.96.0.0/16
+
+# bz - wp hacking
+179.60.150.0/24
+
+# de - hetzner.com
+159.69.0.0/16
+157.90.0.0/16
+88.99.0.0/16
+176.9.0.0/16
+159.69.0.0/16
+195.201.0.0/16
+
+# hk - imsbiz.com
+42.200.160.0/19
+
+# fr - strongtechnology
+45.10.232.0/24
+
+# de - contalbo - tor
+62.171.128.0/19
+193.34.144.0/23
+5.189.176.0/20
+81.16.32.0/20
+164.68.100.0/23
+207.244.224.0/19
+161.97.160.0/20
+
+# vn - hacking
+103.161.16.0/23
+103.146.23.136/23
+61.28.224.0/19
+
+# in - form spamming / hacking
+191.96.150.0/24
+103.214.232.0/22
+103.247.148.0/22
+103.123.248.0/22
+
+# se - interconnects
+37.72.186.0/24
+
+# pl - mudhook marketing - ipvanish
+176.67.86.0/24
+
+# my - sagaxnet
+45.141.159.0/24
+
+# hu - serverastra
+91.219.236.0/22
+
+# hk - wordpress hacking
+45.125.64.0/22
+
+# it - cpanel hosting - webapps.net
+185.2.4.0/22
+81.88.52.0/23
+
+# th - form spamming
+202.44.228.0/24
+
+# ua - ukraine
+92.118.77.0/24
+91.218.12.0/22
+193.19.240.0/24
+134.249.0.0/16
+
+# id - nicemedia
+103.147.46.0/23
+# id - hacking
+103.125.40.0/22
+
+# se - keff tor exit nodes
+193.189.100.0/23
+
+# de - netcup.de servers / also tor exit nodes
+46.232.248.0/22
+37.120.160.0/19
+
+# cz - finaltek.com cloud servers
+46.167.244.0/23
+46.167.246.0/24
+# cz - bartanet
+192.162.96.0/22
+
+# id - idcloudhost.com
+103.28.52.0/23
+
+# ru - wordpress hacking biterika Grupp - known bad actors
+194.113.232.0/22
+194.113.236.0/23
+45.138.72.0/22
+45.15.72.0/22
+95.181.152.0/21
+95.213.172.0/22
+5.253.60.0/22
+46.8.222.0/23
+185.181.245.0/24
+46.8.10.0/23
+45.139.176.0/23
+80.66.88.0/24
+95.182.124.0/22
+109.248.12.0/23
+109.248.129.0/23
+109.248.138.0/23
+109.248.142.0/23
+194.247.178.0/23
+87.251.67.0/24
+46.39.16.0/21
+80.249.144.0/22
+
+# ru - theserver.ru
+213.159.208.0/22
+
+# bz - esecurity
+198.144.120.0/23
+
+# uk - digital ocean
+178.62.0.0/17
+146.185.128.0/21
+
+# tr - ikada turkey
+94.73.142.0/24
+185.83.144.0/22
+
+# vn - "idex trading service joint stock company"  lol
+103.70.28.0/22
+103.130.212.0/22
+
+# godaddy - sg
+182.50.128.0/19
+
+# uk dedicated servers
+81.92.218.0/23
+
+# in F-secure
+202.65.153.0/24
+
+# se - svea.net hosting, wordpress hacking
+193.239.232.0/24
+
+# de - hetzner cloud servers
+65.21.0.0/16
+88.198.0.0/16
+
+# ir - asiatech noc
+212.33.198.0/24
+185.18.212.0/24
+
+# unknown wordpress hacking
+51.81.152.0/24
+
+# in - pdr solutions - wordpress hacking
+216.10.240.0/20
+
+# de - contabo
+75.119.132.0/23
+161.97.84.0/23
+173.249.32.0/19
+178.18.248.0/21
+
+# datashield - sc
+185.56.80.0/24
+
+# ru - firstvds.ru
+178.250.156.0/23
+
+# de - contabo - 161.97.128.0 - 161.97.159.255
+161.97.130.0/23
+
+# kr - vpn
+121.172.90.0/24
+
+# mb - hextet.net
+192.160.102.0/24
+
+# ru - medialand
+45.141.80.0/22
+45.141.84.0/24
+
+# de - datacenter neuremberg
+78.46.0.0/15
+
+# in - hostroyale.com
+45.120.48.0/22
+
+# unknown - web site hacking
+212.64.98.0/24
+
+# lt - dataclub
+109.248.149.0/24
+
+# it - vpn - datacamp - high fraud risk using cdn77 network
+212.102.32.0/19
+84.17.32.0/19
+143.244.52.0/22
+185.246.210.0/24
+84.17.44.0/23
+156.146.41.0/24
+89.187.160.0/21
+89.187.168.0/23
+156.146.32.0/19
+
+# nl - vpn/vps
+79.142.64.0/22
+45.153.160.0/24
+45.86.201.0/24
+5.2.64.0/20
+45.8.17.0/24
+136.144.41.0/24
+
+# fr - vps.net
+31.207.32.0/21
+
+# jp - wordpress hacking
+219.100.37.0/24
+202.189.176.0/21
+
+# in - wordpress hacking
+103.156.238.0/24
+
+# ca - total server solutions
+172.98.82.0/24
+
+# fr - cloudvps
+79.124.62.0/24
+5.181.86.0/24
+
+# de/ro/at m247 tor/vpn
+89.40.73.0/24
+94.198.36.0/22
+94.198.40.0/22
+193.27.12.0/22
+91.219.212.0/22
+45.141.152.0/22
+194.110.112.0/22
+37.120.143.0/24
+185.130.184.0/24
+2.58.44.0/24
+45.12.222.0/24
+45.87.212.0/24
+82.102.25.0/24
+185.244.212.0/24
+193.176.85.0/24
+82.102.16.0/24
+185.232.21.0/24
+45.87.214.0/23
+45.87.216.0/22
+37.120.232.0/21
+37.120.240.0/21
+
+# bz us - vividhosting.net
+190.14.0.0/20
+
+# pa - vps trump tower
+91.191.209.0/24
+
+# za - rain
+197.185.104.0/22
+
+# ru/cl - form spamming russian bitcoin propaganda
+191.96.67.0/24
+
+# in - host royal technologies
+103.221.232.0/24
+
+# ro - cyber smart solutions
+176.126.253.0/24
+
+# de - hostslick
+193.142.146.0/24
+
+# various - netprotect vpn
+5.180.220.0/23
+
+# ua - scammers
+185.4.43.0/24
+
+# cn - web hacking
+115.48.0.0/12
+106.13.192.0/18
+
+# ru - russian hackers
+178.150.47.0/24
+
+# afrihost - wordpress attacks
+154.0.160.0/20
+46.161.11.0/24
+
+# nl - wordpress hacking - rootlayer.net
+185.165.240.0/22
+185.222.57.0/22
+# nl - wordpress hacking form spamming
+185.191.124.0/24
+
+# bg - bulgaria - telelab
+185.95.157.0/23
+
+# ca - servermania
+23.250.0.0/17
+
+# ca - amanah tech - form spamming
+162.253.128.0/22
+
+# ru - hackers - also in all / starcreium and others
+45.134.25.0/24
+185.191.32.0/23
+195.54.166.0/23
+213.217.0.0/23
+45.146.166.0/23
+45.155.200.0/21
+45.150.206.0/23
+87.251.74.0/24
+92.39.64.0/20
+185.244.40.0/22
+193.27.228.0/23
+194.87.55.0/24
+194.26.29.0/24
+# eu - rackweb vps - block mail too - major source of attacks
+78.128.113.0/24
+
+# de - wordpress comment spamming
+193.8.56.0/24
+193.8.94.0/24
+193.8.215.0/24
+
+# nl,fr - scaleway dedicated servers / wordpress comment spamming
+51.158.0.0/15
+
+# indonesia - mydatashop
+188.208.140.0/24
+
+# indian - hacking
+103.199.175.0/24
+
+# ph - web hacking
+202.69.171.0/24
+
+# de - x33.biz Dedicated Servers
+45.129.33.0/24
+
+# de mynx group - anti-covid propaganda
+154.38.0.0/24
+# orangeweb iceland/belieze dark web host / accepts bitcoin for hosting
+82.221.96.0/19
+82.221.128.0/19
+
+# uk - privax - vpn - worldwide
+5.62.0.0/18
+159.242.224.0/21
+159.242.232.0/23
+159.242.234.0/24
+
+
+# ca - kwdatacenter / cloudatcost
+45.62.192.0/18
+
+# ly - africa
+165.16.80.0/24
+
+# ru - timeweb (also in all)
+78.40.216.0/22
+
+
+# br - web attacks
+170.83.188.0/22
+191.37.12.0/22
+
+# ru/ua - ukraine, web attacks
+31.31.96.0/19
+178.159.37.0/24
+178.137.80.0/20
+#178.213.188.0/22 - covered in /21 later
+
+# ru dsl attacks
+178.46.160.0/20
+
+# ca - quadranet / vpn
+198.55.124.0/22
+104.223.0.0/17
+104.129.18.0/23
+104.129.56.0/23
+107.150.22.0/23
+72.11.156.0/23
+173.44.32.0/19
+
+# ru - moscow
+95.165.0.0/16
+
+# hk - fastvps.biz
+5.188.206.0/24
+
+# ru - xmlrpc attacks
+5.188.84.0/24
+
+# uk - mail hacking
+212.70.149.0/24
+
+# pl - hacking
+155.133.48.0/21
+85.128.142.0/24
+
+# pl - gigahosting
+193.169.252.0/22
+#193.169.253.0/24
+#193.169.252.0/24
+#193.169.255.0/24
+
+# cz - wordpress attacks
+93.99.104.0/22
+93.99.108.0/24
+
+# ca - frantech - under US
+#45.61.128.0/18
+
+# uk - datacamp form spamming
+89.187.164.0/24
+89.248.168.0/23
+84.17.60.0/23
+212.102.44.0/23
+
+# nl - ipvolume.net tor exit nodes, bitcoin isp vpn .168.0-89.248.174.*
+185.83.214.0/24
+195.181.168.0/22
+195.181.172.0/23
+195.181.174.0/24
+45.151.167.0/24
+91.149.225.0/24
+51.161.43.0/24
+
+# in - nl - pop3 hacking
+185.215.148.0/22
+
+# pk - wordpress hacking
+45.116.232.0/24
+
+# ro - wp hacking, tor exit nodes
+188.213.49.0/24
+
+# in - champion computers
+45.127.222.0/24
+
+# us - vps - trump tower
+85.93.20.0/14
+
+# ir - world hosting farm - spam too
+185.234.219.0/24
+185.234.218.0/24
+185.234.217.0/24
+
+# ro/us/fr - equinix m247 
+185.244.215.0/24
+185.128.25.0/24
+
+# ru - hostway - attacks (in all list too)
+193.32.164.0/22
+195.54.160.0/21
+45.145.64.0/23
+45.146.164.0/23
+
+# uk - form spam - vpn cdn77
+89.187.176.0/22
+
+# nl - online net dedicated servers
+#51.158.128.0/17  # in larger block
+
+# hu - web hacking
+185.43.172.0/22
+
+# au - strong technology vpn
+103.209.252.0/24
+
+# hk - africa - cloud
+156.225.3.0/24
+
+# de - domain factory / stayalive.com
+109.239.54.0/24
+
+# uk - internet hosting - mail spamming
+45.142.195.0/24
+193.56.28.0/24
+
+# uk - namecheap
+185.61.153.0/24
+
+# vn - vpsonline
+103.99.0.0/22
+103.130.216.0/22
+
+# in - amazon data services - india
+13.232.0.0/14
+
+# de - contabo - vmservers
+173.249.20.0/23
+
+# albania - pronet
+84.20.85.0/24
+
+# africa - wordpress hacking
+80.82.70.0/24
+
+# ro - known wordpress hacking sites
+85.204.246.0/24
+45.14.148.0/22
+89.35.39.0/24
+188.240.208.0/24
+
+# se - vpn
+185.213.155.0/24
+
+# sg/vn rackip.com
+137.220.128.0/18
+
+# de zap hosting
+88.214.56.0/22
+
+# vpntunnel - de
+5.249.164.0/24
+
+# ukraine - attacks
+194.60.254.0/23
+109.86.225.0/24
+
+# eu cloud net - attack source / ban mail too
+141.98.80.0/24
+
+# oneprovider.com jp - cheap servers
+103.75.118.0/24
+
+# de - german comment spam
+207.180.234.0/23
+
+# Tor exit nodes
+66.70.141.0/24
+109.201.128.0/19
+185.207.136.0/22
+192.68.11.0/24
+109.72.80.0/20
+5.199.128.0/20
+171.25.193.0/24
+45.128.133.0/24
+51.158.128.0/17
+185.175.208.0/24
+62.102.148.0/23
+195.228.45.0/24
+178.17.160.0/20
+195.206.105.0/24
+94.230.208.0/20
+89.163.128.0/17
+179.43.128/18
+169.197.97.0/24
+141.98.254.0/24
+45.137.184.0/22
+141.255.160.0/21
+209.141.32.0/19
+199.249.230.0/24
+217.170.192.0/20
+176.10.96.0/19
+#185.220.102.0/24 covered earlier
+46.29.248.0/23
+216.239.64.0/19
+195.176.0.0/17
+185.195.237.0/24
+23.129.64.0/24
+178.175.128.0/19
+54.39.152.0/24
+54.39.20.0/22
+77.247.176.0/21
+81.17.16.0/20
+89.34.27.0/24
+85.93.192.0/19
+185.4.132.0/24
+185.4.133.0/24
+185.4.134.0/24
+185.4.135.0/24
+109.70.100.0/24
+162.247.72.0/22
+185.165.168.0/24
+173.212.240.0/21
+192.42.116.0/22
+217.79.176.0/20
+
+# hk alien tech
+103.143.13.0/24
+
+# uk hackers
+185.216.33.0/24
+
+# france servers - scaleway
+51.15.0.0/16
+
+# il - cloud web manage
+62.219.0.0/19
+
+# sg - hongkong cloud computing
+159.138.0.0/16
+
+# nl - russians in Netherlands
+194.28.115.0/24
+
+# ru - red bytes
+176.113.115.0/24
+193.35.48.0/22
+
+# lt - vpsnet.lt esnet vps
+185.80.128.0/22
+
+# ireland - fasthost
+5.188.86.0/24
+
+
+# palestine telecom / hacking
+213.6.136.0/21
+
+# pa - panama - web4net.org - web attacks
+45.227.255.0/24
+45.227.254.0/24
+45.227.253.0/24
+
+# cn
+211.147.65.0/24
+221.208.0.0/14
+47.89.192.0/18
+121.224.0.0/12
+# cn,kr alibaba cloud
+47.100.0.0/14
+47.235.0.0/16
+47.236.0.0/14
+47.240.0.0/14
+47.244.0.0/15
+47.246.0.0/16
+149.129.0.0/16
+39.108.0.0/16
+
+# cn - serveru
+198.15.135.56/29
+
+# ru
+5.188.62.0/24
+45.89.67.0/24
+45.133.99.0/24
+# 185.50.149.0/24 harasses mail servers
+185.50.149.0/24
+# 45.133.99.0/24 harasses mail servers too
+# 80.66.81 needs to be completely blocked
+80.66.81.0/24
+92.63.194.0/24
+185.211.245.0/24
+194.61.24.0/23
+194.226.144.0/20
+
+# ru - us - zservers russia using us IP space
+193.188.22.0/24
+
+# ru xweb servers
+193.188.23.0/24
+
+# ru - using german ip space
+45.136.108.0/24
+
+# de (tor exit nodes)
+185.220.100.0/22
+# 100-103
+#185.220.100.0/24
+#185.220.101.0/24
+#185.220.102.0/24
+
+# cn - tencent cloud
+1.116.0.0/15
+101.34.0.0/15
+43.128.0.0/15
+106.52.0.0/14
+110.42.128.0/17
+118.24.0.0/15
+119.28.0.0/18
+119.29.0.0/16
+119.91.0.0/16
+123.206.0.0/15
+129.204.0.0/16
+139.155.0.0/16
+139.186.0.0/16
+150.109.0.0/16
+182.254.128.0/17
+
+# ru - large space - source of web attacks
+77.40.0.0/21
+
+# np - Nepal strange source of constant attacks
+103.192.76.0/24
+103.192.77.0/24
+
+# ukraine - skynet - known wordpress hacking site
+178.213.184.0/21
+
+# ru,bz - russians in Beleize
+45.82.153.0/24
+
+# bz,hk - system attacks
+31.220.0.0/22
+
+# de - routerhosting
+212.114.52.0/24
+
+# tk - turkish ideal hosting
+185.85.190.0/24
+185.85.238.0/24
+185.85.239.0/24
+185.86.164.0/24
+185.86.165.0/24
+185.86.166.0/24
+185.86.167.0/24
+185.119.81.0/24
+45.156.73.0/24
+
+# ru - cloud
+86.102.64.0/18
+
+# nl - digicloud vpn
+141.98.9.0/24
+141.98.81.0/24
+193.57.40.0/24
+
+# russians in beleize
+45.82.152.0/24
+
+# us / purevpn
+46.243.221.0/24
+
+# fr / purevpn
+37.230.175.0/24
+
+# ca / amanahtech
+104.254.88.0/21
+184.75.211.0/24
+
+# ro / hostmaze
+178.156.202.0/24
+
+# india / layer host
+103.82.235.0/24
+
+# global frag servers
+23.247.0.0/17
+104.223.128.0/17
+
+# cn - large chinese block
+122.112.0.0/16
+122.114.0.0/16
+129.226.0.0/16
+
+# ca,lu, - buyvm
+104.244.72.0/21
+107.189.8.0/22
+
+# ca - form spammers
+104.254.92.0/24
+
+# nl,de - leaseweb
+5.79.64.0/18
+37.48.64.0/18
+46.165.192.0/18
+45.94.47.0/24
+45.130.60.0/22
+45.134.187.0/24
+45.154.228.0/24
+
+# cy - hostinger 
+31.170.166.0/23
+
+# us - liquidweb
+67.225.128.0/17
+
+# fr,pl,ca - ovh hosting
+# this may also be internet access
+5.39.0.0/17
+51.68.0.0/16
+51.91.0.0/16
+54.39.0.0/16
+91.134.0.0/16
+5.196.0.0/16
+37.187.0.0/16
+46.105.0.0/16
+51.38.0.0/16
+51.83.0.0/16
+51.178.0.0/16
+51.195.0.0/16
+51.210.0.0/16
+51.222.0.0/16
+51.254.0.0/15
+91.121.0.0/16
+94.23.0.0/16
+37.59.0.0/16
+51.75.0.0/16
+51.89.0.0/16
+54.36.0.0/16
+54.38.0.0/16
+142.44.128.0/17
+146.59.0.0/16
+149.56.0.0/16
+158.69.0.0/16
+178.32.0.0/15
+193.70.0.0/17
+192.95.0.0/18
+192.99.0.0/16
+198.100.144.0/20
+
+# sg ovh vps
+139.99.40.0/21
+
+# fr - tor
+89.234.157.0/24
+
