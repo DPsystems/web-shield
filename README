@@ -92,6 +92,16 @@ The general rule for Web-Shield is:
  Cloudflare.  It's too hit-and-miss messing with them, and we
  don't want some legitiamte automated systems being blocked.
 
+ We DO block a number of low-end, high-volume US hosting IP 
+ space like: Colocrossing, Digital Ocean, etc.  This space is
+ notorious for having compromised computers that try to hack and
+ probe other systems.
+
+It is recommended that if you have some of the mass-market cloud
+provider servers needing to hit your server, you whitelist those
+specific IPs.
+
+
 However, the Web-Shield blacklist specifically includes VPN PROVIDERS!  
 
 If you want to stop people who are using VPNs from accessing your
