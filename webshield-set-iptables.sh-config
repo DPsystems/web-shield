@@ -1,6 +1,6 @@
 ##!/bin/bash
 #
-# Source: webshield-set-iptables.sh-config / rename and run to enable blacklist
+# Source: set-iptables.sh-config / rename and run to enable blacklist
 #
 echo '###### Running: set-iptables.sh'
 echo '#'
@@ -25,12 +25,8 @@ SET_NAME="web-shield"
 # NOTE: Some versions limit port list to 15 entries!!
 #       If you're smart you have ssh on a port other than 22 so remove that
 #
-# blocks everything below + smtp
-SET_PORTS_NOMAIL="20,21,25,80,110,143,443,465,587,989,990,993,994,995"
-# the above two settings will only work if you enable their value as the BLOCK_PORTS setting below
-
 # DEFAULT
-# blocks ssh,ftp,pop3,imap
+# blocks ssh,ftp,pop3,imap - allows smtp/mail
 # [EDIT HERE]
 # UN-COMMENT and customize this one below if you have non-standard ssh or other ports you want to block - limit to 15 ports
 SET_PORTS_NOWEB="20,21,80,110,143,443,989,990,993,994,995"
@@ -53,8 +49,10 @@ fi
 # 143 - imap (mail login port)
 # 443 - https (web)
 # 993 - imaps (imap over SSL/TLS)
-# 994 - 
-# 995 - 
+# 994 - IRC
+# 989 - FTPS over TLS
+# 990 - FTPS
+# 995 -  pop3 over TLS
 # 4190 - Plesk Dovecot
 # 3659 - ?
 
@@ -92,10 +90,10 @@ if [[ $CONT =~ ^(y|Y|$) ]]; then # this also accept ENTER, to default to No remo
 # set which command/parameters for the blocking/logging
 
 # alternate (more cpu intensive) way of notifying them they've been rejected
-#IPTABLES_DROPTYPE="REJECT --reject-with icmp-host-prohibited"
+IPTABLES_DROPTYPE="REJECT --reject-with icmp-host-prohibited"
 #IPTABLES_DROPTYPE="REJECT --reject-with icmp-port-unreachable"
 # default just drop
-IPTABLES_DROPTYPE="DROP"
+#IPTABLES_DROPTYPE="DROP"
 
 
 
@@ -104,10 +102,10 @@ if [[ $PARM == "del" ]]; then
   echo "DELETING IPTABLES rules using ipset blacklist: $SET_NAME for ports: $BLOCK_PORTS"
 
   echo "iptables -D INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j $IPTABLES_DROPTYPE"
-  iptables -D INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j DROP
+  iptables -D INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j $IPTABLES_DROPTYPE
 
-  echo "iptables -D INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j LOG --log-prefix \"WbSH: \""
-  iptables -D INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j LOG --log-prefix "WbSH: "
+  echo "iptables -D INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j LOG --log-prefix \"WbSH:\""
+  iptables -D INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j LOG --log-prefix "WbSH:"
 
 else
 
@@ -116,9 +114,9 @@ else
   echo "iptables -I INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j $IPTABLES_DROPTYPE"
   iptables -I INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j $IPTABLES_DROPTYPE
 
-  echo "iptables -I INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j LOG --log-prefix \"WbSH: \""
+  echo "iptables -I INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j LOG --log-prefix \"WbSH:\""
   # optional command to LOG dropped connections via the kern.warning syslog service.  Comment out the iptables to disable
-  iptables -I INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j LOG--log-prefix "WbSH: "
+  iptables -I INPUT -p tcp --match multiport --dports $BLOCK_PORTS -m set --match-set $SET_NAME src -j LOG --log-prefix "WbSH:"
 
 
 fi
@@ -128,6 +126,8 @@ else
   echo "Operation Cancelled";
   exit;
 fi
+
+
 
 echo '## Done.'
 
