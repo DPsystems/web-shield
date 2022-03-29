@@ -11,8 +11,27 @@ NOTE:  This dist is not yet ready for use - still fine-tuning some things
 | () () || (____/\| )___) )     /\____) || )   ( |___) (___| (____/\| (____/\| (__/  )
 (_______)(_______/|/ \___/      \_______)|/     \|\_______/(_______/(_______/(______/
 
-
 Your first line of WEB defense against Internet bots, hacks and probes.
+
+This is an IP-based blacklist of known sources for unsavory activity.  If you run a
+legit web site that has no business serving bad actors, this will come in very handy.
+
+If you run a web site where you don't want automated scripts that aren't serving YOUR
+purposes, this will come in very handy.
+
+If you don't need people using VPNs on your site (the lion's share of VPN activity are
+attempts to hack/probe web sites), this will come in very handy.
+
+Yea, yea, people say blacklists don't work.  They're wrong.  They do work.  Better than
+most other systems. You can't hack what you can't reach, and if you're not doing any
+web business with Chinese or Russian cloud providers, or some central American hosting
+company that's checking for Wordpress vulnerabilities, or dozens of web spiders that have
+no respect for robots.txt and are secretly copying your web site, or a cheap eastern 
+European VPS company that accepts anonymous clients and crypto payments...
+
+...why TF should they have access?
+
+THAT'S why you should use Web-Shield.
 
 A great stand alone filter, or compliment to the wonderful active 
 firewall: WebShield, Fail2Ban, that will make F2B even more efficient.
@@ -109,7 +128,5 @@ to block access primarily to web ports.
 
 ## See the file VERSION for version and developer notes
 
-## See the file STATISTICS for real world samples of the scripts' effectiveness
-
-## See the files CHANGELOG and VERSION for information on changes and program versions and developer notes
+## See the files CHANGELOG or VERSION for information on changes and program versions and developer notes
 
