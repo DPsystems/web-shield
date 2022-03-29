@@ -1,4 +1,6 @@
 
+v. 0.001
+
 NOTE:  This dist is not yet ready for use - still fine-tuning some things
 
 |\     /|(  ____ \(  ___ \      (  ____ \|\     /|\__   __/(  ____ \( \      (  __  \
@@ -31,7 +33,17 @@ bandwidth and exploits your system and content, and actively tries
 to find vulnerabilities and ways into your system.  You do NOT 
 want that.
 
-Our blacklist is intended to be a "wide sweep" IPv4-based blacklist
+If you want true, organic, real users visiting your web server, 
+and not web scrapers, system probe scripts, and other automated
+hacking scripts that do everything from register fake users to 
+exploit forms for spamming, this is the system for you.
+
+We also have identified certain hostile web spiders that you can
+block. These are either private corporate data collection systems
+or search engine bots that disregard robots.txt designations
+and collect data that will likely never be of benefit to you.
+
+Our blacklist is intended to be a specifically targetted IPv4-based blacklist
 of major groups of Internet locations that are notorious for housing
 the lion's share of nefarious HOSTING OPERATIONS that 99.9% of the time
 have NO BUSINESS WHATSOEVER crawling your web site.
@@ -41,10 +53,39 @@ little more aggressive in filtering common spiders and userspace that
 is filled with fraud and activity that is unlikely to be of benefit.
 
 This system can by used by itself or (ideally) in association with
-more precise anti-hacking systems like Fail2Ban.  With this large
-net in place, it reduces the resources Fail2Ban needs to only dealing
-with mostly local attacks from IP space you might not want to ban
-wholesale.
+more precise anti-hacking systems like Login-Shield and Fail2Ban.  
+With this large net in place, it reduces the resources Fail2Ban needs 
+to only dealing with mostly local attacks from IP space you might not 
+want to ban wholesale.
+
+Types of IP space that is in the Web-Shield blacklist:
+
+1.	Mainly overseas hosting/cloud space - NOT user IP space
+2.	VPNs and commonly used TOR exit nodes that are cloud hosted
+3.	A small group of foreign user IP space that typically isn't
+        legitimate web traffic.  
+
+The general rule for Web-Shield is:  
+
+ If the traffic is coming from another server, and is not a real
+ person, we don't want it.  The exceptions are spiders for common
+ search engines, and important sites like Let's Encrypt which 
+ needs to handshake with your server to verify and deploy SSL
+ certificates.   
+
+ We also avoid any of the large cloud providers like AWS and
+ Cloudflare.  It's too hit-and-miss messing with them, and we
+ don't want some legitiamte automated systems being blocked.
+
+However, the Web-Shield blacklist specifically includes VPN PROVIDERS!  
+
+If you want to stop people who are using VPNs from accessing your
+web site, Web-Shield can do that.  If you don't have a specific 
+need to entertain VPN-based traffic we recommend you block it.
+
+In our analysis, the vast majority of hack/attack vectors are
+coming from VPN space.  
+
 
 # WHY?
 # ====
