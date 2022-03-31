@@ -136,3 +136,21 @@ to block access primarily to web ports.
 
 ## See the files CHANGELOG or VERSION for information on changes and program versions and developer notes
 
+# ADDITIONAL NOTES
+# ================
+
+Specific systems web-shield is blocking - add your thoughts as to whether or not this is appropriate?
+
+* Petalbot - a very aggressive Asian web crawler
+
+* Awario.com - a commercial service that lets companies know if their products are being talked about
+               on social media - presumably so they can do damage control
+
+* semrush.com - another commercial service and private "business intelligence service" that probably
+                only benefits other companies and not yours
+
+* censys.com - another private, corporate audit of web space, presumably to "manage attack space",
+               supposedly a "white hat database of vulnerable sites" which obviously makes a great
+               target for black hat ops, so we don't want to be in their system.
+
+
