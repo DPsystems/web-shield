@@ -1,4 +1,5 @@
-#
+#!/bin/bash
+##
 # (c) 2020, DPSystems
 ####
 SET_NAME=web-shield

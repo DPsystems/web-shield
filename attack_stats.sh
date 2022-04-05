@@ -1,7 +1,10 @@
 #!/bin/bash
 #
-# Script to analyze login-shield blocked attack attemps and generate
+# Script to analyze Web-shield blocked attack attemps and generate
 # statistics identifying the most aggressive sources of attacks
+#
+# Note that this script, unlike Login Shield, cannot tell you what percentage
+# of attacks were blocked/allowed - we assume anything we don't block is regular web traffic
 #
 # OPTIONAL: add parameter "lookup" to display country associated with top attacks
 #

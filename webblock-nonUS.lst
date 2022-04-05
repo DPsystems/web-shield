@@ -5,7 +5,7 @@
 #
 #
 # IPs to avoid blocking:
-# 172.65.32.248 - letsencrypt server
+# 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
 # gb - form spamming

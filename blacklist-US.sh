@@ -1,4 +1,4 @@
-#
+#!/bin/bash#
 #
 ####
 SET_NAME=web-shield

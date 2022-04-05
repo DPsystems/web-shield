@@ -1,5 +1,10 @@
-# Rename this to S.login-shield.sh after customizing
+#!/bin/bash
+#
 # run as root
+#
+# If you want to customize this, create a copy and set that up as your start command
+# I personally prefer to not have this automatically run during boot in case anything
+# goes wrong - I like to manually start it, but YMMV.
 #
 # specify the location of your login shield installation
 MYPATH=./
