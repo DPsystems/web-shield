@@ -7,6 +7,9 @@
 # 172.65.32.248 - letsencrypt server
 #
 ######
+# us - dallas ipxo/betterservers.com
+108.165.192.0/19
+
 # us - ovh datacenter
 15.204.0.0/16
 
