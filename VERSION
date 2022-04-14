@@ -2,6 +2,10 @@
 # ===============
 
 Version 
+
+	0.02b - 2022-04 - Minor updates, addition of new script: attack_cstats.sh which breaks
+                          down blocked attacks by Class C IP instead of full IP - more useful
+                          for lumping certain hostile web spiders together
         0.01b - 2022-03 - Initial public committed version
 
  NOTE: This system has been in active use now for several years.  It's finally being

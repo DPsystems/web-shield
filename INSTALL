@@ -159,10 +159,63 @@ Additional Info & Statistics
 ============================
 
 Once setup, there are a few scripts to generate stats on the system activity. 
-See the file STATISTICS for more info.
+
+The following reports are available:
+
+attack_stats.sh
+attack_cstats.sh
+
+Either of these reports can be run with the optional parameter "lookup" which produces a report that provides a summary of the activity blocked.  attack_stats.sh does it per IP and attack_cstats.sh breaks it town by Class C IP blocks.
+
+Here is an example:
+
+./attack_cstats.sh lookup
+
+|\     /|(  ____ \(  ___ \      (  ____ \|\     /|\__   __/(  ____ \( \      (  __  \
+| )   ( || (    \/| (   ) )     | (    \/| )   ( |   ) (   | (    \/| (      | (  \  )
+| | _ | || (__    | (__/ /_____ | (_____ | (___) |   | |   | (__    | |      | |   ) |
+| |( )| ||  __)   |  __ ((_____)(_____  )|  ___  |   | |   |  __)   | |      | |   | |
+| || || || (      | (  \ \            ) || (   ) |   | |   | (      | |      | |   ) |
+| () () || (____/\| )___) )     /\____) || )   ( |___) (___| (____/\| (____/\| (__/  )
+(_______)(_______/|/ \___/      \_______)|/     \|\_______/(_______/(_______/(______/
+======= Attack Statistics based on current log files =======
+======= Class C IP version =======
+ Using: /var/log/messages
+
+From: Apr 1 03:16:09
+To  : Apr 14 10:12:01
+
+-- Number of blocked attacks in log files  : 177063
+-- Number of unique Class C IP attacking   : 1435
+   Average # of attacks per Class C IP     : 123
+   Percentage of attacks from top 50 IPs   : 94.3%
+   Percentage of attacks from top 10 IPs   : 81.3%
+   Percentage of attacks from top 5 IPs    : 76.9%
+
+      Top 40:
+Attacks:  Class C IP:  Country:
+-------------------------------
+ 129029 185.191.171     CY
+   2008 157.90.209      DE
+   1812 114.119.136     SG
+   1728 114.119.133     SG
+[..]
+    972 114.119.147     SG
+    720 114.119.151     SG
+    352 5.188.62        RU
+    336 46.161.11       RU
+    293 103.146.23      VN
+    284 109.70.100      AT
+    283 212.102.33      US
+    280 88.164.137      FR
+    264 62.102.148      SE
+    241 209.190.81      US
+    235 162.142.125     US
+    191 185.220.101     DE
+    167 74.119.119      US
+[..]
 
 
-
-Thanks for your support - and be sure to send any suggestions to dolson803@gmail.com
+Thanks for your support - and be sure to send any suggestions to dolson803@gmail.com but note that opening a case at Github may get faster responses.
 
 - DP
