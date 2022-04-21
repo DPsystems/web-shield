@@ -88,10 +88,11 @@
 # us - highwinds - ipvanish
 205.185.192.0/19
 
-# us - tx - totalserversolutions
+# us - tx - totalserversolutions - vpn
 104.200.128.0/19
 172.83.40.0/21
 162.253.68.0/22
+107.181.160.0/19
 
 # us - ny newyorkcityservers.com
 162.253.64.0/22
