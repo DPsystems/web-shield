@@ -2,6 +2,9 @@
 # other webblock - smaller IP blocks
 #
 
+# semrush - invasive spider
+185.191.168.0/22
+
 # cn petalbot - very aggressive chinese spiders that do not follow robots.txt - See: https://www.hypernode.com/blog/performance/huawei-aspiegelbot-is-increasingly-impacting-european-online-stores
 114.119.128.0/18
 
@@ -45,13 +48,20 @@
 35.192.0.0/12
 
 # large areas of china
+36.4.0.0/14
 125.64.0.0/13
 222.184.0.0/13
 119.80.160.0/19
+182.92.0.0/16
+180.96.0.0/11
+
 
 # large areas of russsia
 178.66.0.0/16
 
 # large areas of south africa
 105.208.0.0/12
+196.242.0.0/15
+196.196.0.0/16
+
 
