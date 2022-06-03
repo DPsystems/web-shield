@@ -1,6 +1,11 @@
 #
 # other webblock - smaller IP blocks
 #
+# turkey
+78.180.0.0/17
+
+# syria
+5.0.32.0/19
 
 # semrush - invasive spider
 185.191.168.0/22
