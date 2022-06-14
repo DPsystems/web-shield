@@ -1,6 +1,9 @@
 #
 # other webblock - smaller IP blocks
 #
+# dynamic broadband customers in thailand
+1.0.192.0/18
+
 # turkey
 78.180.0.0/17
 
