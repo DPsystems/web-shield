@@ -7,6 +7,12 @@
 # 172.65.32.248 - letsencrypt server
 #
 ######
+# us - form hacking hosting
+45.80.96.0/23
+
+# us - globalpeeringsolutions.com
+45.154.140.0/22
+
 # us - dallas ipxo/betterservers.com
 108.165.192.0/19
 
