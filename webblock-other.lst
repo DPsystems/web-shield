@@ -1,6 +1,16 @@
 #
 # other webblock - smaller IP blocks
 #
+# south korea
+121.160.0.0/11
+123.212.0.0/16
+218.152.0.0/13
+121.128.0.0/11
+222.96.0.0/12
+222.112.0.0/13
+222.120.0.0/15
+222.122.0.0/16
+
 # dynamic broadband customers in thailand
 1.0.192.0/18
 
