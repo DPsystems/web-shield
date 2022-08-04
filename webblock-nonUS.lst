@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# israel - blockchainnetworksolutions
+45.80.104.0/23
+
 # hosting ru/ua/etc
 31.172.64.0/18
 
