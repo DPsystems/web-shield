@@ -22,6 +22,7 @@
 
 # ru - hackers - changway.hk
 92.255.85.0/24
+185.7.214.0/24
 
 # ru - servstar
 46.35.224.0/19
@@ -466,6 +467,7 @@
 109.248.149.0/24
 
 # it - vpn - datacamp - high fraud risk using cdn77 network
+37.19.192.0/19
 212.102.32.0/19
 84.17.32.0/19
 143.244.52.0/22
