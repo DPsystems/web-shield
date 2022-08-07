@@ -7,6 +7,12 @@
 # 172.65.32.248 - letsencrypt server
 #
 ######
+# us security servers
+77.83.86.0/23
+
+# us cloud web manage cloudwm.com
+52.144.44.0/22
+
 # us - aventice.com servers
 204.217.128.0/17
 
@@ -270,6 +276,7 @@
 
 # us - egi hosting
 172.120.0.0/15
+104.252.0.0/15
 
 # us - blazing SEO spammer
 66.84.92.0/24

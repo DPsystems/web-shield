@@ -13,6 +13,7 @@
 
 # hosting ru/ua/etc
 31.172.64.0/18
+178.210.64.0/20
 
 # mx, ru etc - surfshark.com vpn
 194.41.112.0/22
