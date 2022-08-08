@@ -104,7 +104,8 @@
 # us - highwinds - ipvanish
 205.185.192.0/19
 
-# us - tx - totalserversolutions - vpn
+# us - tx - totalserversolutions - vpn performative.com
+172.98.64.0/19
 104.200.128.0/19
 172.83.40.0/21
 162.253.68.0/22
@@ -278,6 +279,7 @@
 # us - egi hosting
 172.120.0.0/15
 104.252.0.0/15
+142.111.0.0/16
 
 # us - blazing SEO spammer
 66.84.92.0/24
