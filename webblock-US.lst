@@ -7,6 +7,9 @@
 # 172.65.32.248 - letsencrypt server
 #
 ######
+# us cloudtech labs
+23.184.144.0/24
+
 # us - linktower.net
 136.0.244.0/23
 
