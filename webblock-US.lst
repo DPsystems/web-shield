@@ -7,6 +7,12 @@
 # 172.65.32.248 - letsencrypt server
 #
 ######
+# us cloudip
+45.56.192.0/21
+
+# us wiredisp.com
+23.249.172.0/24
+
 # us elitework llc 
 5.253.116.0/23
 
