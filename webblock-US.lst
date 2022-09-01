@@ -72,9 +72,6 @@
 # us form spammer
 168.90.97.0/24
 
-# peg tech  / locally sourced web attacks
-198.2.192.0/18
-
 # us host4yourself h4y.us
 67.21.32.0/23
 
