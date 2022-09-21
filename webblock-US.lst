@@ -16,6 +16,7 @@
 
 # us vpn logicweb
 173.239.192.0/18
+149.18.0.0/16
 
 # us - completeweb.net
 216.226.128.0/19
