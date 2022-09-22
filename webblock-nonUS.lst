@@ -8,6 +8,10 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# za - fasthosting
+41.216.187.0/24
+41.216.188.0/22
+
 # proline - vpn - providelinesubnets - RU tied
 80.73.242.0/24
 
