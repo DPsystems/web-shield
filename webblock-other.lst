@@ -1,6 +1,9 @@
 #
 # other webblock - smaller IP blocks
 #
+# vn - reverse lookup denied
+183.91.0.0/16
+
 # iran
 95.38.0.0/16
 

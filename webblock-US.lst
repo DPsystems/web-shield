@@ -7,6 +7,12 @@
 # 172.65.32.248 - letsencrypt server
 #
 ######
+# us namecheap
+199.188.200.0/21
+
+# us - noop noc - form spamming bots / possibly vpn
+84.247.59.0/24
+
 # us ramnode - inmotionhosting
 168.235.64.0/18
 
