@@ -7,7 +7,10 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
-######
+######a
+# tr - system probes
+193.111.73.0/24
+
 # nl - dedicated server solutions
 79.124.8.0/24
 
@@ -22,6 +25,7 @@
 45.80.104.0/23
 
 # hosting ru/ua/etc
+185.187.90.0/23
 188.130.218.0/23
 90.156.168.0/21
 5.101.152.0/21
