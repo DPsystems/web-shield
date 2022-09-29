@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######a
+# nl - dmzhost
+92.118.39.0/24
+
 # tr - system probes
 193.111.73.0/24
 
@@ -499,6 +502,7 @@
 109.248.149.0/24
 
 # it - vpn - datacamp - high fraud risk using cdn77 network
+169.150.192.0/18
 37.19.192.0/19
 212.102.32.0/19
 84.17.32.0/19
