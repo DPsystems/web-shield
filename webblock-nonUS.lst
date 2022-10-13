@@ -8,6 +8,10 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# ru wordpress hacking/hosting
+188.143.128.0/17
+185.114.244.0/22
+
 # hk yisu cloud hacking
 39.109.126.0/23
 
