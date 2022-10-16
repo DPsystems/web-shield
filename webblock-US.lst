@@ -7,6 +7,9 @@
 # 172.65.32.248 - letsencrypt server
 #
 ######
+# us deptofinternetservices.org HI - some weird bs
+104.156.155.0/24
+
 # us spryservers.net
 209.160.96.0/23
 
@@ -602,6 +605,7 @@
 85.208.211.0/24
 
 # us other areas / digital ocean
+139.59.56.0/21
 167.71.0.0/16
 45.55.0.0/16
 107.170.0.0/16

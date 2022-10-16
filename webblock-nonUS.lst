@@ -480,7 +480,8 @@
 # in - pdr solutions - wordpress hacking
 216.10.240.0/20
 
-# de - contabo
+# de - contabo - cloud servers VPS
+144.126.128.0/19
 75.119.132.0/23
 161.97.84.0/23
 173.249.32.0/19
