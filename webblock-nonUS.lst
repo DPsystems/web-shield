@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# cy - bytech ltd vpn
+37.140.223.0/24
+
 # ru wordpress hacking/hosting
 188.143.128.0/17
 185.114.244.0/22
