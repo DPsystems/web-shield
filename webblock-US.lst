@@ -7,6 +7,9 @@
 # 172.65.32.248 - letsencrypt server
 #
 ######
+# us quickpacket.com
+160.202.64.0/18
+
 # us deptofinternetservices.org HI - some weird bs
 104.156.155.0/24
 
