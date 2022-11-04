@@ -537,6 +537,7 @@
 109.248.149.0/24
 
 # it - vpn - datacamp - high fraud risk using cdn77 network
+45.134.212.0/22
 169.150.192.0/18
 37.19.192.0/19
 212.102.32.0/19
@@ -1137,6 +1138,7 @@
 
 # fr,pl,ca - ovh hosting
 # this may also be internet access
+217.182.0.0/16
 66.70.128.0/17
 5.39.0.0/17
 51.68.0.0/16
