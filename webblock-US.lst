@@ -7,6 +7,9 @@
 # 172.65.32.248 - letsencrypt server
 #
 ######
+# us - 24shells.com - vps
+107.151.0.0/18
+
 # us icnx.net - form spamming
 104.244.208.0/22
 
