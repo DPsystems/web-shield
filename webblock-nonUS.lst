@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# cn - alicloud
+8.209.64.0/18
+
 # ru - timer ltd
 5.59.128.0/19
 
