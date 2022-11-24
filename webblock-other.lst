@@ -45,6 +45,7 @@
 35.152.0.0/13
 
 # oracle public cloud
+158.101.0.0/16
 129.213.0.0/16
 
 # russia - this is user space
