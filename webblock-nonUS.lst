@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# de - kasserver.com
+85.13.128.0/19
+
 # sc - suisse limited - hacking
 194.169.175.0/24
 

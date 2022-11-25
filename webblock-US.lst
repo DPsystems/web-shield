@@ -695,6 +695,7 @@
 
 # us - global frag servers layerhost
 104.148.0.0/17
+107.179.0.0/17
 
 # us - form spammer
 104.245.144.0/24
