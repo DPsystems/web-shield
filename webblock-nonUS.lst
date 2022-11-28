@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# zz - unknown ip space hacking
+113.30.148.0/22
+
 # de - kasserver.com
 85.13.128.0/19
 
@@ -1167,6 +1170,7 @@
 
 # fr,pl,ca - ovh hosting
 # this may also be internet access
+135.125.128.0/17
 188.165.0.0/16
 167.114.0.0/16
 217.182.0.0/16
