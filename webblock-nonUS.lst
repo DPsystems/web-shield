@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# gb - ipxo - ip address brokering
+36.255.196.0/23
+
 # sc - elitework llc - form spamming
 185.249.236.0/22
 
