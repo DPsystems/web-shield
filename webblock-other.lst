@@ -4,6 +4,7 @@
 # afrnic contested ip space
 196.16.0.0/15
 196.18.0.0/16
+196.19.0.0/16
 
 # vn - reverse lookup denied
 183.91.0.0/16
