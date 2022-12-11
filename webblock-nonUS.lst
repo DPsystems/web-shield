@@ -8,6 +8,11 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# gr/ru - cloudwebmanage
+83.229.68.0/22
+83.229.72.0/21
+83.229.80.0/21
+
 # de - prefixbroker - vpn
 45.138.16.0/24
 
