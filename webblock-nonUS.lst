@@ -12,6 +12,9 @@
 83.229.68.0/22
 83.229.72.0/21
 83.229.80.0/21
+# il - cloud web manage
+62.219.0.0/19
+83.229.64.0/20
 
 # de - prefixbroker - vpn
 45.138.16.0/24
@@ -997,10 +1000,6 @@
 # france servers - scaleway
 51.15.0.0/16
 
-# il - cloud web manage
-62.219.0.0/19
-83.229.64.0/20
-83.229.80.0/21
 
 # sg - hongkong cloud computing
 159.138.0.0/16
