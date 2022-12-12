@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# se - prq dedicated servers
+88.80.16.0/20
+
 # gr/ru - cloudwebmanage
 83.229.68.0/22
 83.229.72.0/21
