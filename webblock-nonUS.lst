@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# jp - protonvpn
+45.14.71.0/24
+
 # de - 1eet noc hacking
 2.58.56.0/24
 
@@ -296,7 +299,8 @@
 # ru - firstbyte - scammers
 185.217.198.0/23
 
-# nl - serverion - hacking serverius
+# nl - serverion - hacking serverius / elitework
+85.209.128.0/20
 85.208.136.0/24
 109.206.240.0/22
 80.76.51.0/24
