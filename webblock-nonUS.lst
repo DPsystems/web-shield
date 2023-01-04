@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# ru - hacking
+87.236.0.0/19
+
 # gb - colocationx
 78.142.18.0/24
 
