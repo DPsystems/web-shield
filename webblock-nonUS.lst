@@ -8,6 +8,15 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# bz - my-tec.bz hosting
+181.177.64.0/18
+
+# uk - openitc - vps
+149.255.96.0/19
+
+# ru - digital ocean and others
+37.139.0.0/18
+
 # ru - hacking
 87.236.0.0/19
 
