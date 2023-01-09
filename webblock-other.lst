@@ -1,6 +1,10 @@
 #
 # other webblock - smaller IP blocks
 #
+#####
+# africa - za
+102.165.0.0/16
+
 # afrnic contested ip space
 196.16.0.0/15
 196.18.0.0/16
@@ -54,6 +58,7 @@
 129.213.0.0/16
 
 # russia - this is user space
+195.209.0.0/16
 95.72.0.0/16
 46.3.0.0/16
 87.249.0.0/16
