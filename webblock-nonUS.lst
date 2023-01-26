@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# eu - internet-census.org / system probes by for-profit private corporations
+185.180.140.0/22
+
 # bz - my-tec.bz hosting
 181.177.64.0/18
 
