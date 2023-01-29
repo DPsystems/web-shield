@@ -8,6 +8,12 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# eu unknown probes
+185.150.190.0/23
+
+# form spamming
+45.152.198.0/23
+
 # eu - internet-census.org / system probes by for-profit private corporations
 185.180.140.0/22
 
@@ -217,8 +223,9 @@
 # nl - hostkey
 5.39.216.0/21
 
-# africa - cloudinnovation.org - "ip address management"
+# africa,china, etc - cloudinnovation.org - "ip address management"
 45.192.0.0/16
+154.92.0.0/16
 
 # nl - nforce - vpn
 85.203.44.0/24
