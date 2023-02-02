@@ -8,8 +8,12 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# misc system hacking
+103.54.56.0/22
+
 # ru hacking
 5.23.48.0/21
+179.60.144.0/21
 
 # eu unknown probes
 185.150.190.0/23
