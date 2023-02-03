@@ -2,10 +2,10 @@
 # other webblock - smaller IP blocks
 #
 #####
-# africa - za
-102.165.0.0/16
+# africa - za - entire continent
 154.38.0.0/16
 154.9.0.0/16
+102.0.0.0/8
 
 # afrnic contested ip space
 196.16.0.0/15
@@ -69,6 +69,7 @@
 87.250.0.0/16
 85.140.0.0/15
 92.101.192.0/18
+176.99.0.0/16
 
 # microsoft
 52.146.0.0/15
