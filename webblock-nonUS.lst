@@ -8,6 +8,12 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# ro zynox form spamming
+62.216.76.0/22
+
+# hk vpn prefixbroker
+194.5.82.0/23
+
 # misc system hacking
 103.54.56.0/22
 
