@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# hk form spamming
+103.204.108.0/22
+
 # za africa ecom cloud solutions
 196.51.0.0/16
 
