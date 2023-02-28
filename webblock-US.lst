@@ -105,7 +105,8 @@
 # us - globalpeeringsolutions.com
 45.154.140.0/22
 
-# us - dallas ipxo/betterservers.com / ace data centers / hostpapa
+# us - dallas/ut ipxo/betterservers.com / ace data centers / hostpapa
+50.114.0.0/16
 190.92.160.0/21
 216.24.208.0/20
 108.165.192.0/19
@@ -670,6 +671,7 @@
 85.208.211.0/24
 
 # us other areas / digital ocean
+170.64.128.0/17
 146.190.0.0/16
 139.59.0.0/16
 146.185.128.0/17
