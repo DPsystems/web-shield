@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# gcore / fastweb hosting
+92.223.0.0/16
+
 # sk - slovakia form spamming
 92.52.0.0/18
 
@@ -100,6 +103,7 @@
 
 # sc - elitework llc - form spamming
 185.249.236.0/22
+91.197.36.0/22
 
 # zz - unknown ip space hacking
 113.30.148.0/22
@@ -296,6 +300,9 @@
 
 # bg - corpolabs - form spam
 147.78.141.0/24
+
+# de plusserver
+188.138.0.0/18
 
 # br - host1plus
 181.214.0.0/16
