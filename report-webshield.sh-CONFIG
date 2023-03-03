@@ -1,0 +1,43 @@
+#!/bin/sh
+#
+# generate mailable report at end of month
+#
+# rename this to report-webshield.sh and call it from CRON at end of the month
+#
+
+# CHANGE THESE SETTINGS
+
+TO=dolsen803@gmail.com
+REPLY=nobody@nowhere.com
+WEBSHIELDDIR=/path/to/your/web-shield-install
+
+echo '# Running report-webmail.sh'
+
+TMPFILE=/tmp/webshield-mail-$$.txt
+TMPREPORT=/tmp/webshield-report-$$.txt
+
+HOSTNAME=`uname -n`
+SUB="[$HOSTNAME] Web-Shield Report"
+
+cd $WEBSHIELDDIR
+./attack_stats.sh lookup > $TMPREPORT
+echo "" >> $TMPREPORT
+echo "" >> $TMPREPORT
+./attack_cstats.sh lookup >> $TMPREPORT
+
+
+# Let's mail 'em
+echo "To: $TO" > $TMPFILE
+echo "Reply-to: $REPLY" >> $TMPFILE
+echo "Subject: $SUB" >> $TMPFILE
+echo "" >> $TMPFILE
+echo "" >> $TMPFILE
+cat $TMPREPORT >> $TMPFILE
+
+sendmail -t < $TMPFILE  
+echo Mailed to: $TO
+echo ""
+rm -f $TMPFILE
+rm -f $TMPREPORT
+####
+# end

@@ -7,6 +7,7 @@ Version
                           down blocked attacks by Class C IP instead of full IP - more useful
                           for lumping certain hostile web spiders together
         0.01b - 2022-03 - Initial public committed version
+	0.02b - 2023-03 - working version - now having been tested for at least a year
 
  NOTE: This system has been in active use now for several years.  It's finally being
        publicly released. I have not run into legitimate users being affected by

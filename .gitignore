@@ -1,5 +1,6 @@
 # files to ignore
 webshield-set-iptables.sh
+report-webshield.sh
 *.tgz
 *.zip
 
