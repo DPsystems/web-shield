@@ -2,6 +2,9 @@
 # other webblock - smaller IP blocks
 #
 #####
+# sc - fibergrid
+196.247.0.0/16
+
 # africa - za - entire continent
 156.224.0.0/11
 136.239.0.0/16
