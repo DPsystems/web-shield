@@ -8,6 +8,12 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# de / your-server.de and other un-ID'd IP space
+116.202.0.0/15
+
+# gb / falco-networks.com and others
+85.203.0.0/18
+
 # gcore / fastweb hosting
 92.223.0.0/16
 
@@ -804,6 +810,7 @@
 23.250.0.0/17
 
 # ca - amanah tech - form spamming
+162.219.176.0/22
 162.253.128.0/22
 104.245.144.0/22
 184.75.208.0/20
