@@ -11,7 +11,7 @@ TO=dolsen803@gmail.com
 REPLY=nobody@nowhere.com
 WEBSHIELDDIR=/path/to/your/web-shield-install
 
-echo '# Running report-webmail.sh'
+echo '# Running report-webshield.sh'
 
 TMPFILE=/tmp/webshield-mail-$$.txt
 TMPREPORT=/tmp/webshield-report-$$.txt
