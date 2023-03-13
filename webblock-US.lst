@@ -23,7 +23,8 @@
 # us - vlayer
 91.230.225.0/24
 
-# us - 24shells.com - vps
+# us - 24shells.com - vps (also subleased to servermania)
+38.152.0.0/15
 107.151.0.0/18
 
 # us icnx.net - form spamming
