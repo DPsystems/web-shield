@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# cn - form spamming
+223.29.252.0/22
+
 # uk howick digital - form spamming
 185.93.32.0/22
 
@@ -110,6 +113,7 @@
 45.138.16.0/24
 
 # gb - ipxo - ip address brokering
+185.213.240.0/20
 185.238.224.0/21
 36.255.196.0/23
 94.156.14.0/24
