@@ -94,6 +94,7 @@
 
 # us cloud web manage cloudwm.com
 52.144.44.0/22
+104.129.128.0/22
 
 # us - aventice.com servers
 45.147.60.0/22
