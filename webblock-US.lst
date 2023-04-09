@@ -7,6 +7,9 @@
 # 172.65.32.248 - letsencrypt server
 #
 ######
+# us - blazingseo
+154.83.8.0/22
+
 # us solidsystems.us - form spamming
 172.81.56.0/22
 
