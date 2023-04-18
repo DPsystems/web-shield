@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# apnic - unattributed space, form spamming
+36.255.188.0/22
+
 # lu - altushost - form spamming, cyber extortion
 37.46.112.0/23
 
@@ -123,6 +126,9 @@
 94.156.14.0/24
 
 # sc - elitework llc - form spamming
+85.208.104.0/21
+85.208.112.0/21
+85.208.120.0/22
 2.56.24.0/21
 2.56.32.0/20
 2.56.48.0/22
@@ -376,6 +382,7 @@
 188.126.64.0/19
 
 # kr,nz,in - hostroyale
+202.94.172.0/22
 45.125.244.0/22
 160.20.8.0/22
 45.252.188.0/22
