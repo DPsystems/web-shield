@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# nl - spurious LLC cloud spamming (also some HK cloud stuff)
+154.84.128.0/18
+
 # apnic - unattributed space, form spamming
 36.255.188.0/22
 
@@ -382,6 +385,7 @@
 188.126.64.0/19
 
 # kr,nz,in - hostroyale
+103.221.232.0/22
 202.94.172.0/22
 45.125.244.0/22
 160.20.8.0/22
