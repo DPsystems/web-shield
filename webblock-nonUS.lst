@@ -8,6 +8,15 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# de tubehosting - hacking
+2.58.113.0/24
+
+# uk fastplanet
+104.249.0.0/18
+
+# syn
+45.43.64.0/19
+
 # nl - spurious LLC cloud spamming (also some HK cloud stuff)
 154.84.128.0/18
 
