@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# hn - wordpress hacking
+168.90.196.0/22
+
 # de tubehosting - hacking
 2.58.113.0/24
 
