@@ -35,6 +35,9 @@
 # gcore / fastweb hosting
 92.223.0.0/16
 
+# gcore / russian space
+92.38.128.0/17
+
 # sk - slovakia form spamming
 92.52.0.0/18
 

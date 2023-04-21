@@ -4,7 +4,7 @@
 # Known IP space of cloud/hosting providers inside the US
 #
 # IPs to avoid blocking:
-# 172.65.32.248 - letsencrypt server
+# 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
 # us - netin.com
