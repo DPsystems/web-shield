@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# hk - goldenwing wordpress hacking
+202.14.4.0/22
+
 # hn - wordpress hacking
 168.90.196.0/22
 
@@ -531,6 +534,7 @@
 179.60.150.0/24
 
 # de - hetzner.com - hosgun
+136.243.0.0/16
 5.161.0.0/16
 159.69.0.0/16
 157.90.0.0/16
