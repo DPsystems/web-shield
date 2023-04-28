@@ -8,6 +8,12 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# kr - large block hacking space
+49.1.0.0/16
+
+# pk - form spamming
+59.103.192.0/18
+
 # hk - goldenwing wordpress hacking
 202.14.4.0/22
 
