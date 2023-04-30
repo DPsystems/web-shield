@@ -8,6 +8,10 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# ru - hacking
+46.8.128.0/18
+46.8.192.0/23
+
 # kr - large block hacking space
 49.1.0.0/16
 
