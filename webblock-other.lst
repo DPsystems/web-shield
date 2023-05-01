@@ -2,6 +2,9 @@
 # other webblock - smaller IP blocks
 #
 #####
+# vn - user space
+125.212.128.0/17
+
 # sc - fibergrid
 196.247.0.0/16
 

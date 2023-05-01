@@ -8,6 +8,21 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# canada cloudequitygroup.com hosting
+208.88.4.0/22
+
+# it aruba.it
+31.11.32.0/21
+
+# nl webreus hosting
+46.235.40.0/21
+
+# pl - iqpl
+86.111.240.0/21
+
+# africa rawanda hacking
+197.243.16.0/22
+
 # ru - hacking
 46.8.128.0/18
 46.8.192.0/23

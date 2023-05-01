@@ -7,6 +7,10 @@
 # 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
+# us godaddy - not blockcing them because they're very large
+#198.71.128.0/17
+#68.178.128.0/17
+
 # us - intellnetwork.net - form spamming
 168.151.240.0/20
 
