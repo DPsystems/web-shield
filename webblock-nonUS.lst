@@ -8,6 +8,12 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# se binero hosting group
+217.70.32.0/20
+
+# hh-networks + china
+103.112.0.0/19
+
 # canada cloudequitygroup.com hosting
 208.88.4.0/22
 
@@ -1367,6 +1373,7 @@
 
 # fr,pl,ca - ovh hosting
 # this may also be internet access
+54.37.0.0/16
 57.128.0.0/17
 139.99.0.0/16
 135.125.128.0/17
