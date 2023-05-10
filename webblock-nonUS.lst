@@ -57,7 +57,8 @@
 # uk fastplanet
 104.249.0.0/18
 
-# syn
+# syn / uk hosting
+107.181.128.0/18
 45.43.64.0/19
 
 # nl - spurious LLC cloud spamming (also some HK cloud stuff)
