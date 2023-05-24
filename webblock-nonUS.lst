@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# russian IP user space
+77.37.128.0/17
+
 # unclaimed IP space - form spamming
 103.47.52.0/22
 
@@ -255,6 +258,7 @@
 
 # nl - dmzhost
 92.118.39.0/24
+193.32.162.0/24
 
 # tr - system probes
 193.111.73.0/24
