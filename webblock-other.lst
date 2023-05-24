@@ -2,6 +2,9 @@
 # other webblock - smaller IP blocks
 #
 #####
+# in India - user space
+49.32.0.0/12
+
 # vn - user space
 125.212.128.0/17
 
