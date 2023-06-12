@@ -8,6 +8,12 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# ca - gervais "web solutions" form spamming
+104.247.112.0/22
+
+# su - bahnhof.net cloud
+81.170.128.0/17
+
 # ru - hacking/form spamming
 178.20.40.0/21
 
