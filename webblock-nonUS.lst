@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# ru sa - hack attempts
+83.97.72.0/23
+
 # ca - gervais "web solutions" form spamming
 104.247.112.0/22
 
@@ -794,6 +797,7 @@
 109.248.149.0/24
 
 # it - vpn - datacamp - high fraud risk using cdn77 network
+149.102.224.0/19
 195.181.160.0/20
 89.187.160.0/19
 45.134.212.0/22
