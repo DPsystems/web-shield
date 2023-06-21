@@ -7,6 +7,12 @@
 # 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
+# us sourcedns.com
+209.59.128.0/18
+
+# us tierpoint.com
+174.136.0.0/18
+
 # us rackspace
 104.239.128.0/17
 
