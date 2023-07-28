@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# uk - hosting services uk2group.com
+206.217.192.0/19
+
 # ru sa - hack attempts
 46.38.96.0/19
 83.97.72.0/23
