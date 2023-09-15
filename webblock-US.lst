@@ -7,6 +7,10 @@
 # 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
+# us - h47.us host4yourself
+192.158.224.0/21
+192.158.232.0/21
+
 # us - senderswitft.com
 170.130.183.0/24
 
@@ -42,6 +46,7 @@
 216.109.160.0/20
 
 # us - blazingseo
+185.236.228.0/22
 69.58.64.0/20
 141.164.80.0/20
 154.201.32.0/19
