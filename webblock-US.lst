@@ -7,6 +7,9 @@
 # 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
+# us - tzulo dedicated servers
+198.44.128.0/19
+
 # us - packetexchange/gtt.net/total server solutions
 67.201.0.0/18
 
