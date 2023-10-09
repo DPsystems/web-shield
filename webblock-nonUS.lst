@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# uk - syn ltd
+198.105.100.0/22
+
 # pk - cybernet pakistan
 202.47.32.0/19
 
@@ -405,7 +408,7 @@
 
 # africa,china, etc - cloudinnovation.org - "ip address management"
 45.192.0.0/16
-154.92.0.0/16
+154.80.0.0/12
 
 # nl - nforce - vpn
 85.203.44.0/24
