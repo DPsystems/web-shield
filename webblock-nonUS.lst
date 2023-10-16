@@ -8,6 +8,10 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# various - peaceweb, vpnconsumer, bandito, etc
+216.73.128.0/19
+216.73.160.0/22
+
 # uk - syn ltd
 198.105.100.0/22
 
@@ -71,6 +75,7 @@
 86.111.240.0/21
 
 # africa rawanda hacking
+185.209.176.0/22
 197.243.16.0/22
 
 # ru - hacking
