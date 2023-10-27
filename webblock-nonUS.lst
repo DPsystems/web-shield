@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# ca net-minders.com cheap servers
+198.144.144.0/20
+
 # various - peaceweb, vpnconsumer, bandito, etc
 216.73.128.0/19
 216.73.160.0/22
