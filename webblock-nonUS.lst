@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# in cloud hosting indonesia
+103.55.36.0/22
+
 # ca net-minders.com cheap servers
 198.144.144.0/20
 
