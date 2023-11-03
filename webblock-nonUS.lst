@@ -222,6 +222,7 @@
 83.229.64.0/20
 
 # de - prefixbroker - vpn
+193.26.112.0/22
 45.138.16.0/24
 
 # gb - ipxo - ip address brokering
