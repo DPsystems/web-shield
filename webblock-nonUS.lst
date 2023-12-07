@@ -8,6 +8,7 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+
 # nl limenet.io - sketchy hosting/hacking sources
 91.92.240.0/20
 
@@ -1439,6 +1440,7 @@
 
 # fr,pl,ca - ovh hosting
 # this may also be internet access
+51.81.0.0/16
 54.37.0.0/16
 57.128.0.0/17
 139.99.0.0/16
