@@ -8,6 +8,8 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# bg form spamming
+92.247.232.0/22
 
 # nl limenet.io - sketchy hosting/hacking sources
 91.92.240.0/20
