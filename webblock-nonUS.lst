@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# aptum.com / cloud servers
+64.77.0.0/17
+
 # bg form spamming
 92.247.232.0/22
 
@@ -798,6 +801,9 @@
 
 # godaddy - sg
 182.50.128.0/19
+
+# godaddy - de
+31.170.120.0/21
 
 # uk dedicated servers
 81.92.218.0/23
