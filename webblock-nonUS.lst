@@ -1397,7 +1397,8 @@
 # russians in beleize
 45.82.152.0/24
 
-# us / purevpn
+# us,de / purevpn
+5.254.23.0/24
 46.243.221.0/24
 
 # fr / purevpn
