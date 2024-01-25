@@ -327,6 +327,7 @@
 138.94.218.0/23
 
 # us - vpn - prefixbroker
+45.154.136.0/22
 45.132.115.0/24
 
 # us nj - serverstack
