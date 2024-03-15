@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# buenahosting.com - form spamming
+138.59.206.0/23
+
 # in - form spamming
 103.120.176.0/22
 
