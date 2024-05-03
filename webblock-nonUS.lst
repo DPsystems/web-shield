@@ -8,6 +8,12 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# ro - binbox vpn
+84.239.10.0/24
+
+# es - sec firewalls - form spamming
+212.30.33.0/24
+
 # sg - web hacking
 27.124.17.0/23
 
