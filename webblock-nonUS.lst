@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# uk - emmanualhosting.info - crypto pay hosting
+79.110.62.0/24
+
 # ro - binbox vpn
 84.239.10.0/24
 
@@ -915,6 +918,7 @@
 109.248.149.0/24
 
 # it - vpn - datacamp - high fraud risk using cdn77 network / also TOR
+149.22.80.0/20
 149.88.16.0/20
 149.50.208.0/20
 149.102.224.0/19
