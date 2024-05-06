@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# expressvpn
+98.159.224.0/20
+
 # uk - emmanualhosting.info - crypto pay hosting
 79.110.62.0/24
 
