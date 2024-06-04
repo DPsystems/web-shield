@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# uae servers-tech
+89.110.0.0/17
+
 # tw hicloud
 210.65.0.0/16
 
