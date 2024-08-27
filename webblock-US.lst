@@ -7,6 +7,12 @@
 # 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
+# us - wa bigtip.com - coupon site that spams and spiders
+192.126.128.0/17
+
+# us - advinservers.com
+170.205.28.0/22
+
 # us - rackspot
 45.131.92.0/22
 
