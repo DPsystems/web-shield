@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# ca securedata
+71.19.240.0/20
+
 # is flokinet
 185.165.168.0/22
 
