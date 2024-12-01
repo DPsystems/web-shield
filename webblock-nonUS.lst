@@ -60,6 +60,10 @@
 200.71.127.0/24
 
 # ru form spamming
+91.142.72.0/21
+91.142.80.0/20
+195.2.64.0/20
+195.2.80.0/21
 46.29.235.0/24
 
 # gsl networks - form spamming
@@ -152,7 +156,7 @@
 31.210.64.0/18
 
 # si t-2 group Slovenija
-84.255.192.0/18
+#84.255.192.0/18 - blocking legit activity
 
 # se binero hosting group
 217.70.32.0/20
