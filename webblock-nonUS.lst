@@ -8,6 +8,15 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# th - true internet scamming
+203.144.128.0/19
+
+# es - form spamming
+213.182.192.0/19
+
+# ro - virtono
+194.102.180.0/22
+
 # sg - digital ocean
 178.128.96.0/20
 
