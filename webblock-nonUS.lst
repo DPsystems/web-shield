@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# hacking
+193.142.146.0/23
+
 # ukraine & others hacking
 195.211.191.0/24
 87.251.78.0/24
