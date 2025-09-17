@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# form spamming - belieze
+190.93.96.0/19
+
 # form spamming - octopus web solutions
 154.213.128.0/17
 
