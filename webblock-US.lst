@@ -7,6 +7,14 @@
 # 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
+# us hostroyale - source of fraud
+94.176.48.0/20
+185.251.248.0/23
+
+# us cleardocks - source of fraud
+176.223.68.0/22
+92.255.80.0/22
+
 # us laceibanetsociety.com - form spamming
 186.65.116.0/22
 

@@ -8,8 +8,14 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
-# us hostroyale
+# sk hostmetric - cc fraud
+109.70.66.0/23
+
+# us/others hostroyale cc fraud
+103.14.104.0/22
+213.255.193.0/23
 93.114.236.0/22
+185.36.254.0/24
 
 # ru,others hacking - globalaxs
 58.97.240.0/20
@@ -1296,6 +1302,7 @@
 185.234.217.0/24
 
 # ro/us/fr/elsewhere - equinix m247 vpn globalaxs
+91.132.36.0/22
 92.240.206.0/24
 185.104.184.0/22
 185.195.18.0/23
