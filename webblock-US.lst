@@ -7,6 +7,9 @@
 # 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
+# bytesize network
+66.118.40.0/22
+
 # webhosting holdings - source of fraud
 23.129.248.0/21
 
