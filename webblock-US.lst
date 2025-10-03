@@ -7,6 +7,12 @@
 # 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
+# us thoughtport.net hosting
+206.41.160.0/19
+
+# us "computer company" form spam
+186.179.40.0/22
+
 # bytesize network
 66.118.40.0/22
 
