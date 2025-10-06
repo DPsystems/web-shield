@@ -7,6 +7,9 @@
 # 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
+# us academyforinternetresearch.org - invasive spidering
+172.232.188.0/24
+
 # us thoughtport.net hosting
 206.41.160.0/19
 
