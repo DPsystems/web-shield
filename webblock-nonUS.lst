@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# hostinger cy
+195.35.8.0/21
+
 # hostroyale + RU space
 89.184.192.0/18
 109.198.64.0/18
