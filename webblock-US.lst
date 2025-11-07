@@ -7,6 +7,10 @@
 # 172.65.32.248 - letsencrypt server  (part of Cloudflair 172.64.0.0/13 not blocked)
 #
 ######
+# us - adboardglobal - form spamming
+195.210.104.0/21
+195.210.112.0/20
+
 # us academyforinternetresearch.org - invasive spidering
 172.232.188.0/24
 
