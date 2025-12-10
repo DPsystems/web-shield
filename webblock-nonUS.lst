@@ -8,6 +8,9 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 ######
+# ru hacking
+194.28.208.0/22
+
 # hostinger cy
 195.35.8.0/21
 
