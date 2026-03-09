@@ -34,7 +34,16 @@ firewall: Fail2Ban, that will make F2B even more efficient.
 
 Also see our sister product: Login-Shield (https://github.com/DPsystems/Login-Shield
 
-by Dark Phiber, 2019-2022 - dolson803@@gmail.com
+by Dark Phiber, 2019-2026 - dolson803@@gmail.com
+
+# UPDATES
+# =======
+
+Webblock now includes known IP space of AI webcrawlers.  Please feel free to 
+suggest additional IP blocks for known AI agents for this new blocklist.
+
+AI IP space will be disabled by default but you can enable it in the START*sh file.
+
 
 # WHAT?
 # =====
