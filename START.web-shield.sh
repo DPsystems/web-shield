@@ -21,6 +21,7 @@ echo ""
 ./blacklist-nonUS.sh
 ./blacklist-other.sh
 ./blacklist-US.sh
+./blacklist-AI.sh
 #
 ./webshield-set-iptables.sh
 #
