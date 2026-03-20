@@ -7,8 +7,20 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# academy for internet reserach - known DOS source - these should also be blocked at mail server ports
+172.232.188.0/24
+104.156.155.0/24
+195.96.137.0/24
+104.156.155.0/24
+
+# br attacks
+143.0.164.0/22
+45.233.176.0/22
 
 ######
+# de ghostnet
+5.175.189.0/24
+
 # vn cloudfly - hacking
 103.82.192.0/21
 
@@ -470,6 +482,8 @@
 62.216.76.0/22
 
 # hk,pl,etc vpn prefixbroker
+45.67.96.0/24
+89.251.0.0/24
 185.255.168.0/22
 89.251.0.0/19
 194.32.120.0/22

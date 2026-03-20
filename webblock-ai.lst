@@ -8,7 +8,7 @@
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
 # AI - anthropic / claude bot
-216.73.216.0/22
+#216.73.216.0/22
 
 # AI - ChatGPT / Cloudflare
 104.16.0.0/12
