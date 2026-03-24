@@ -7,6 +7,9 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# br - syn attacks
+168.195.0.0/20
+
 # academy for internet reserach - known DOS source - these should also be blocked at mail server ports
 172.232.188.0/24
 104.156.155.0/24

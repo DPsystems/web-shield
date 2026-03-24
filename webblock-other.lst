@@ -2,6 +2,21 @@
 # other webblock - smaller IP blocks
 #
 #####
+# binance - bot
+141.98.11.0/24
+
+# ru - yandex bots
+5.255.192.0/18
+
+# us - amazonbot
+107.20.0.0/14
+3.208.0.0/12
+44.192.0.0/11
+98.80.0.0/13
+52.192.0.0/12
+18.128.0.0/9
+34.192.0.0/10
+
 # in India - user space
 49.32.0.0/12
 
@@ -61,6 +76,7 @@
 5.0.32.0/19
 
 # semrush - invasive spider
+85.208.96.0/24
 185.191.168.0/22
 
 # cn petalbot - very aggressive chinese spiders that do not follow robots.txt - See: https://www.hypernode.com/blog/performance/huawei-aspiegelbot-is-increasingly-impacting-european-online-stores
