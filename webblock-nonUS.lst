@@ -7,6 +7,12 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# finegroupservers - hacking
+5.181.168.0/22
+5.183.252.0/22
+185.81.144.0/22
+185.88.100.0/22
+
 # br - syn attacks
 168.195.0.0/20
 
