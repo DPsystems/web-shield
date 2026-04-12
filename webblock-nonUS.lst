@@ -7,6 +7,9 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# vpservers, cloudwm.com
+45.61.48.0/20
+
 # finegroupservers - hacking
 5.181.168.0/22
 5.183.252.0/22
