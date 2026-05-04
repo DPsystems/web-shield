@@ -7,6 +7,9 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# wy corrupted corporate network?
+31.134.8.0/22
+
 # in digivps
 103.168.66.0/23
 
