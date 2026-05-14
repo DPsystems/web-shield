@@ -2,6 +2,24 @@
 # other webblock - smaller IP blocks
 #
 #####
+# form spamming
+91.233.0.0/22
+
+#  botnet/vpn/hacking - finegroupservers
+5.255.96.0/19
+77.83.24.0/22
+89.19.34.0/23
+178.20.212.0/22
+185.89.40.0/22
+194.99.24.0/21
+185.61.216.0/21
+185.168.28.0/23
+185.201.136.0/22
+193.151.188.0/22
+
+# misc form hacking
+45.3.32.0/19
+
 # misc likely vpn hacking
 45.130.83.0/24
 
