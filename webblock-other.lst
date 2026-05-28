@@ -2,6 +2,12 @@
 # other webblock - smaller IP blocks
 #
 #####
+# hk hacking
+103.109.100.0/22
+
+# kz phishing
+176.12.72.0/21
+
 # nl web hacking
 94.103.80.0/22
 
