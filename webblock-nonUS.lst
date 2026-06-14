@@ -7,6 +7,12 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# es others - vpn web hacking
+65.111.26.0/24
+209.50.184.0/24
+216.26.247.0/24
+
+
 # wy corrupted corporate network?
 31.134.8.0/22
 
