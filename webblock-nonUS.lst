@@ -7,6 +7,15 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# worldwide, coordinated botnet login hacking
+151.123.176.0/23
+209.50.160.0/19
+216.26.224.0/20
+216.26.240.0/20
+217.181.88.0/21
+45.3.32.0/19
+65.111.0.0/19
+
 # es others - vpn web hacking
 65.111.26.0/24
 209.50.184.0/24
