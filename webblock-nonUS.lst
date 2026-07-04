@@ -7,6 +7,10 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+
+# us microsoft azure - br
+191.236.0.0/14
+
 # worldwide, coordinated botnet login hacking
 151.123.176.0/23
 209.50.160.0/19
