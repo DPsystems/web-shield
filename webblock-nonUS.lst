@@ -7,6 +7,8 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# my - ace data centers - known hacking source
+96.126.128.0/18
 
 # us microsoft azure - br
 191.236.0.0/14
