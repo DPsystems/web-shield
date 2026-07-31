@@ -7,6 +7,9 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# ky hacking
+31.57.184.0/24
+
 # my - ace data centers - known hacking source
 96.126.128.0/18
 
