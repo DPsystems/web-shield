@@ -39,6 +39,17 @@ by Dark Phiber, 2019-2026 - dolson803@@gmail.com
 # UPDATES
 # =======
 
+2026/08:
+
+In order to not conflict with systems like certbot, that use a variety of IP space to 
+verify web servers for ssl certs, I've created two additional scripts: disable-webshield.sh
+and enable-webshield.sh.   You can call these from a script that run "certbot renew" before 
+and after to ensure no blacklisted IP space affects certbot during its renewal process 
+(or any other system you want to use).  This temporarily swaps an empty set for the web-shield
+IP list to disable it efficiently.
+
+Older:
+
 Webblock now includes known IP space of AI webcrawlers.  Please feel free to 
 suggest additional IP blocks for known AI agents for this new blocklist.
 
