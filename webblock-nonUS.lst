@@ -7,6 +7,12 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# my hacking
+187.127.192.0/19
+
+#in hacking
+103.139.175.0/24
+
 # sc form spamming
 31.134.12.0/22
 
