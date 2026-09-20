@@ -7,6 +7,9 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# in hacking
+14.102.84.0/22
+
 # ua hacking
 94.154.46.0/24
 

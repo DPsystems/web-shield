@@ -446,7 +446,8 @@
 192.254.128.0/17
 142.4.0.0/19
 50.116.64.0/18
-192.185.0.0/16
+# Need a host in here so its commented out for now
+#192.185.0.0/16
 
 # us - ca - multacom
 96.43.80.0/20
