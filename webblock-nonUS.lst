@@ -7,6 +7,9 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# jp system probes
+130.12.180.0/22
+
 # misc hacking
 45.132.128.0/17
 212.119.40.0/23
