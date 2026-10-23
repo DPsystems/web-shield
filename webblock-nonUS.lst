@@ -366,9 +366,10 @@
 # in - form spamming
 103.120.176.0/22
 
-# nl - worldstream.com
+# nl - worldstream.com VPS
 212.8.248.0/23
 212.8.250.0/24
+185.4.112.0/22
 
 # aptum.com / cloud servers
 64.77.0.0/17
