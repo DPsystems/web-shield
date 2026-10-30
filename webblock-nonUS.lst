@@ -7,6 +7,13 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# rs hacking spaceshipnetworks, misc other nets
+62.60.130.0/24
+91.224.92.0/24
+
+# nl hacking
+192.253.208.0/22
+
 # jp system probes
 130.12.180.0/22
 
