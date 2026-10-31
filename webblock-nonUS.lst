@@ -10,6 +10,7 @@
 # rs hacking spaceshipnetworks, misc other nets
 62.60.130.0/24
 91.224.92.0/24
+209.87.169.0/24
 
 # nl hacking
 192.253.208.0/22
