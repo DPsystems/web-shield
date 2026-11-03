@@ -7,6 +7,12 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# za antbox hacking
+154.198.49.0/24
+
+# limestonenetworks
+74.63.192.0/18
+
 # rs hacking spaceshipnetworks, misc other nets
 62.60.130.0/24
 91.224.92.0/24
