@@ -7,6 +7,9 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt server
 #
+# techoff hacking
+195.178.110.0/24
+
 # za antbox hacking
 154.198.49.0/24
 
@@ -1117,6 +1120,7 @@
 45.10.232.0/24
 
 # de - contalbo - tor
+194.163.128.0/18
 84.247.128.0/20
 62.171.128.0/19
 193.34.144.0/23
