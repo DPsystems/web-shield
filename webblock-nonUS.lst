@@ -5,8 +5,11 @@
 #
 #
 # IPs to avoid blocking:
-# 3.33.152.147, 172.65.32.248 - letsencrypt server
+# 3.33.152.147, 172.65.32.248 - letsencrypt certbot server
 #
+# hacking
+213.209.159.0/24
+
 # techoff hacking
 195.178.110.0/24
 

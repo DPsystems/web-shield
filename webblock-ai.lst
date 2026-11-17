@@ -39,3 +39,11 @@
 #66.249.64.0/21
 #66.249.72.0/22
 
+# Google cloud customers
+136.64.0.0/11
+
+# amazon data services
+18.88.0.0/18
+
+# microsoft
+20.0.0.0/11
