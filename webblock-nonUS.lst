@@ -7,6 +7,9 @@
 # IPs to avoid blocking:
 # 3.33.152.147, 172.65.32.248 - letsencrypt certbot server
 #
+# jp cyberverse probing
+212.135.208.0/21
+
 # hacking
 213.209.159.0/24
 
@@ -580,6 +583,8 @@
 62.216.76.0/22
 
 # hk,pl,etc vpn prefixbroker
+91.190.96.0/21
+91.190.104.0/22
 45.83.31.0/24
 45.67.96.0/24
 89.251.0.0/24
