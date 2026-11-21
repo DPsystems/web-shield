@@ -636,6 +636,7 @@
 
 # eu - internet-census.org / system probes by for-profit private corporations
 185.180.140.0/22
+185.226.197.0/24
 
 # bz - my-tec.bz hosting
 181.177.64.0/18
